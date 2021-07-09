@@ -63,3 +63,51 @@ Tener en cuenta:
 
 - Concepto de "Fee".
 - Public key: para cada blockchain es distinta. Quienes comienzan usando exchanges centralizados pueden pensar que la misma dirección sirve para varias blockchains, pero no siempre es así.
+
+
+## 02. BLOCKCHAINS CON Y SIN SMART CONTRACTS
+
+• Sin SM
+    ◦ La red descentralizada sólo procesa y guarda datos de las transacciones en su moneda nativa.
+    ◦ Ejemplos: bitcoin, bitcoin cash, litecoin, dogecoin, monero.
+
+• Con SM
+    ◦ La red descentralizada, además de eso, también almacena y ejecuta código, lo que se conoce como Smart Contracts. A partir de los SM, se puede crear otro tipo de criptomonedas que se llaman tokens.
+    ◦ Ejemplos de blockchains con SM: ethereum, bsc, polkadot, kusama, polygon, avalanche, cosmos, terra, próximamente cardano.
+    ◦ Ejemplos de tokens: DAI, USDC, USDT, UNI, CAKE, AAVE, MANA, COMP, WBTC.
+
+### ¿En qué se diferencia una crypto nativa de un token?
+
+Una criptomoneda nativa es aquella que está vinculada a una red blockchain a nivel fundacional y se usa para pagar a los nodos que validan las transacciones. Por ejemplo, en bitcoin es el BTC, en ethereum el ETH. Cada vez que se mina un bloque en bitcoin, el minero que generó ese bloque recibe BTC como recompensa.
+Un token, por otro lado, es aquel creado dentro de una blockchain a partir de un smart contract. Por ejemplo, en ethereum, la crypto nativa que es el ETH, pero muchos tokens.
+
+En general, en las redes que corren Smart Contracts, las fees de las transacciones se pagan en la moneda nativa. Por ejemplo, en ethereum, para enviar el token UNI de una wallet a otra, se necesita pagar una fee en ETH. Si el usuario no tiene ETH en su wallet, no puede enviar esos tokens.
+
+### ¿Qué tipos de tokens existen?
+
+    • Stablecoins: buscan una paridad con el dólar u otra moneda estable.
+    • Derivados o activos sintéticos: buscan representar el precio de acciones, índices, metales, otras cryptos u otros activos financieros.
+    • NFT (tokens no fungibles): sirven para representar coleccionables, arte, registros de propiedad, servicios de identidad.
+    • Otras cryptos: vinculadas a servicios, por ejemplo dapps de juegos, de finanzas, de gobernanza de proyectos, de financiación de proyectos, de deportes, de donación, etc.
+
+### ¿Qué son las stablecoins?
+
+Son tokens en general fungibles que buscan mantener un valor estable, ya sea con el USD, el EUR u otro punto de referencia.
+
+### ¿Cuáles son las stablecoins más importantes?
+
+    • DAI: busca garantizar la estabilidad a partir de un algoritmo. Para generar tokens éstos deben estar respaldados por un colateral de otras cryptos (por ejemplo ETH), que quedan bloqueados en un SM. También quema tokens de acuerdo a la variación del precio de los colaterales.
+    • USDC: emite tokens que en teoría están respaldados por dólares y otros activos. Hay empresas muy importantes detrás de este proyecto, como Circle (vinculada a Goldman Sachs).
+    • USDT: emite tokens que en teoría están respaldados por dólares y otros activos. Es la stablecoin más usada y de mayor market cap.
+
+### ¿Por qué existen las mismas cryptos en distintas blockchains?
+
+Capaz ya hayan notado que en en ethereum existe una crypto que se llama WBTC, o que en la bsc existen BTC, ETH y ADA entre otras.
+
+En realidad, como ya vimos, en una blockchain existen monedas nativas (por ej, en la bsc es el BNB) y todo lo demás son tokens (en la bsc, BTC, ETH, ADA son tokens, es decir, como un derivado, un sintético, algo que dicen que representa el precio de BTC, ETH o ADA respectivamente).
+
+También las stablecoins tienen tokens análogos en varias blockchains. Por ejemplo, hay USDT en ethereum (donde fue creado originalmente), así como en la bsc, polygon, tron y demás. Si bien en este caso, los USDT son emitidos por la misma empresa que los creó en ethereum, es importante saber que en cada blockchain son tokens distintos.
+
+Para cada caso hay que analizar qué tan confiables y respaldados están.
+
+También, al enviar o recibir una crypto (tanto nativa como token), es importante prestar atención en cuál blockchain se realiza la transacción. Por ejemplo, si alguien espera recibir BTC en una wallet de bitcoin, pero le envían el token BTC por la blockchain de bsc, esas cryptos nunca le van a llegar, y no hay forma de revertir la transacción. Ese dinero se pierde. Otro ejemplo: si alguien envía USDT por la red de tron y el receptor lo espera en la red de ethereum (erc 20), en este caso también se pierde el dinero.
