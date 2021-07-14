@@ -3,9 +3,10 @@
 
 ## ÍNDICE
 
-[01. INTRODUCCIÓN](#cap-01)
-[02. BLOCKCHAINS CON Y SIN SMART CONTRACTS](#cap-02)
-[03. ROADMAP PARA UN USUARIO DE CRIPTOMONEDAS](#cap-03)
+- [01. INTRODUCCIÓN](#cap-01)
+- [02. BLOCKCHAINS CON Y SIN SMART CONTRACTS](#cap-02)
+- [03. ROADMAP PARA UN USUARIO DE CRIPTOMONEDAS](#cap-03)
+- [04. EJEMPLOS DE OPCIONES PARA UTILIZAR CARDANO (ADA)](#cap-04)
 
 
 <a name="cap-01"/>
@@ -122,7 +123,7 @@ Para cada caso hay que analizar qué tan confiables y respaldados están.
 También, al enviar o recibir una crypto (tanto nativa como token), es importante prestar atención en cuál blockchain se realiza la transacción. Por ejemplo, si alguien espera recibir BTC en una wallet de bitcoin, pero le envían el token BTC por la blockchain de bsc, esas cryptos nunca le van a llegar, y no hay forma de revertir la transacción. Ese dinero se pierde. Otro ejemplo: si alguien envía USDT por la red de tron y el receptor lo espera en la red de ethereum (erc 20), en este caso también se pierde el dinero.
 
 
-<a name="cap-02"/>
+<a name="cap-03"/>
 ## 03. ROADMAP PARA UN USUARIO DE CRIPTOMONEDAS
 
 Esta guía, que es una opinión personal, una propuesta, enumera opciones en orden de dificultad creciente, para quien busque comenzar a usar criptomonedas.
@@ -172,3 +173,49 @@ Esta guía, que es una opinión personal, una propuesta, enumera opciones en ord
 ### 6.	HW + SW + configurar una Layer 2 o una blockchain secundaria
 
   Ejemplo: usar una HW e importarla en Metamask. Luego, configurar MM con la bsc o polygon. Luego usar DeFi en esas blockchains.
+
+
+<a name="cap-04"/>
+## 04. EJEMPLOS DE OPCIONES PARA UTILIZAR CARDANO (ADA)
+
+Esta guía, que es una opinión personal, enumera opciones para utilizar Cardano, desde las más sencillas e inseguras, hasta las más complejas y seguras. Criterios similares pueden aplicarse para otras criptomonedas, con la salvedad de que, obviamente, pueden diferir los exchanges, software wallets y hardware wallets que soporta cada una.
+
+### 1. Exchange centralizado
+
+El paso más sencillo desde luego es abrir una cuenta en en un exchange que soporte la criptomoneda que uno busca (en este ejemplo, ADA). Después de crear la cuenta, el exchange crea una wallet y el usuario puede enviar y recibir monedas a esa wallet. Depende del exchange, a veces también se puede comprar y vender a cambio de monedas fiduciarias. Y por supuesto, también se pueden intercambiar (exchange, en inglés) por otras criptomonedas.
+
+- Ejemplos: Binance, Coinbase.
+- Ventajas: mayor sencillez, menor responsabilidad en el acceso a la wallet.
+- Desventajas: menor seguridad (las monedas no están en poder del usuario, sino de la empresa que las tiene. Riesgos: pueden cambiar los TyC, pueden hackear el exchange, pueden hackear la cuenta del usuario).
+- Otros servicios: depende el exchange, a veces también el usuario puede acceder a servicios financieros con sus ADA dentro del exchange. Por ejemplo, prestarlos (lending, saving) o delegarlos (para el staking) y así generar ingresos pasivos (generalmente en ADA).
+- ¿Cuáles serían los pasos a seguir? Registrarse / Obtener ADA / Usarlos.
+
+### 2. Software wallet + private key
+
+El siguiente paso es utilizar una software wallet del cual el usuario tenga la private key en su poder. El ejemplo más sencillo es "Yoroi": una extensión de Chrome que permite generar o importar wallets de Cardano.
+
+- Ejemplo: Yoroi.
+- Ventajas: mayor poder sobre las criptomonedas (ahora las monedas están en posesión del usuario, ya que posee la private key), menos regulaciones y restricciones.
+- Desventajas: mayor complejidad (hay que aprender qué es una private key, qué es una seed, cómo protegerlas, cómo hacer un backup, cómo restaurar una cuenta, cómo delegar el voto para el staking), riesgo intermedio (existe aún un riesgo intermedio en este caso, por ejemplo, si la computadora del usuario fue comprometida, o lo fue la extensión de Yoroi, o si el usuario instaló una extensión no oficial).
+- Otros servicios: por ahora (Julio 2021) el usuario puede delegar el voto de sus monedas para el staking y así generar ingresos pasivos (pagados en ADA).
+- ¿Cuáles serían los pasos a seguir?
+- Instalar la extensión
+- Generar una nueva wallet
+- Guardar la private key o la seed, o ambas, de forma segura (la seed son doce palabras que se utilizan para generar la private key)
+- Borrar la wallet y volver a restaurarla (para confirmar que el backup de la seed es correcto)
+- Recibir y enviar fondos (comenzar con una cantidad mínima)
+- Dependiendo del caso, el usuario puede elegir si intentar delegar una parte de los fondos. No delegar todos los fondos, ya que es necesario mantener una cantidad líquida en la wallet para pagar las fees. Si la wallet se queda sin ADA líquidas, no va a poder retirar las que delegó.
+
+### 3. Hardware wallet + passphrase
+
+- Ejemplo: Ledger.
+- Ventajas: mayor seguridad.
+- Desventajas: mayor complejidad (hay que aprender qué es una hardware wallet, cómo proteger la seed, cómo hacer un backup, cómo restaurar una cuenta, cómo usar una passphrase).
+- Otros servicios: idem anterior.
+- ¿Cuáles serían los pasos a seguir?
+  - Obtener una hardware wallet. Importante: se recomienda no comprarla de segunda mano ya que puede estar comprometida, sino directo de la empresa que las fabrica. Y deben estar cerradas como se muestra en las páginas oficiales de la empresa fabricante correspondiente.
+  - Generar una nueva wallet.
+  - Guardar la seed de forma segura.
+  - Generar una cuenta con una passphrase.
+  - Salir de esa cuenta y volver a entrar, para corroborar que la passphrase es correcta.
+  - Dentro de Yoroi se puede importar la hardware wallet, para utilizar las funcionalidades explicadas en el punto anterior.
