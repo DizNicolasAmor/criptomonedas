@@ -3,13 +3,12 @@
 
 ## ÍNDICE
 
-- [01. INTRODUCCIÓN](#cap-01)
-- [02. BLOCKCHAINS CON Y SIN SMART CONTRACTS](#cap-02)
-- [03. ROADMAP PARA UN USUARIO DE CRIPTOMONEDAS](#cap-03)
-- [04. EJEMPLOS DE OPCIONES PARA UTILIZAR CARDANO (ADA)](#cap-04)
+- [01. INTRODUCCIÓN](#01.-INTRODUCCIÓN)
+- [02. BLOCKCHAINS CON Y SIN SMART CONTRACTS](#02.-BLOCKCHAINS-CON-Y-SIN-SMART-CONTRACTS)
+- [03. ROADMAP PARA UN USUARIO DE CRIPTOMONEDAS](#03.-ROADMAP-PARA-UN-USUARIO-DE-CRIPTOMONEDAS)
+- [04. EJEMPLOS DE OPCIONES PARA UTILIZAR CARDANO (ADA)](#04.-EJEMPLOS-DE-OPCIONES-PARA-UTILIZAR-CARDANO-(ADA))
 
 
-<a name="cap-01"/>
 ## 01. INTRODUCCIÓN
 
 ### ¿Qué es bitcoin?
@@ -74,7 +73,6 @@ Tener en cuenta:
 - Public key: para cada blockchain es distinta. Quienes comienzan usando exchanges centralizados pueden pensar que la misma dirección sirve para varias blockchains, pero no siempre es así.
 
 
-<a name="cap-02"/>
 ## 02. BLOCKCHAINS CON Y SIN SMART CONTRACTS
 
 - Sin SM
@@ -123,7 +121,6 @@ Para cada caso hay que analizar qué tan confiables y respaldados están.
 También, al enviar o recibir una crypto (tanto nativa como token), es importante prestar atención en cuál blockchain se realiza la transacción. Por ejemplo, si alguien espera recibir BTC en una wallet de bitcoin, pero le envían el token BTC por la blockchain de bsc, esas cryptos nunca le van a llegar, y no hay forma de revertir la transacción. Ese dinero se pierde. Otro ejemplo: si alguien envía USDT por la red de tron y el receptor lo espera en la red de ethereum (erc 20), en este caso también se pierde el dinero.
 
 
-<a name="cap-03"/>
 ## 03. ROADMAP PARA UN USUARIO DE CRIPTOMONEDAS
 
 Esta guía, que es una opinión personal, una propuesta, enumera opciones en orden de dificultad creciente, para quien busque comenzar a usar criptomonedas.
@@ -175,7 +172,6 @@ Esta guía, que es una opinión personal, una propuesta, enumera opciones en ord
   Ejemplo: usar una HW e importarla en Metamask. Luego, configurar MM con la bsc o polygon. Luego usar DeFi en esas blockchains.
 
 
-<a name="cap-04"/>
 ## 04. EJEMPLOS DE OPCIONES PARA UTILIZAR CARDANO (ADA)
 
 Esta guía, que es una opinión personal, enumera opciones para utilizar Cardano, desde las más sencillas e inseguras, hasta las más complejas y seguras. Criterios similares pueden aplicarse para otras criptomonedas, con la salvedad de que, obviamente, pueden diferir los exchanges, software wallets y hardware wallets que soporta cada una.
@@ -188,7 +184,10 @@ El paso más sencillo desde luego es abrir una cuenta en en un exchange que sopo
 - Ventajas: mayor sencillez, menor responsabilidad en el acceso a la wallet.
 - Desventajas: menor seguridad (las monedas no están en poder del usuario, sino de la empresa que las tiene. Riesgos: pueden cambiar los TyC, pueden hackear el exchange, pueden hackear la cuenta del usuario).
 - Otros servicios: depende el exchange, a veces también el usuario puede acceder a servicios financieros con sus ADA dentro del exchange. Por ejemplo, prestarlos (lending, saving) o delegarlos (para el staking) y así generar ingresos pasivos (generalmente en ADA).
-- ¿Cuáles serían los pasos a seguir? Registrarse / Obtener ADA / Usarlos.
+- ¿Cuáles serían los pasos a seguir?
+  - Registrarse
+  - Obtener ADA
+  - Usarlos.
 
 ### 2. Software wallet + private key
 
@@ -199,12 +198,12 @@ El siguiente paso es utilizar una software wallet del cual el usuario tenga la p
 - Desventajas: mayor complejidad (hay que aprender qué es una private key, qué es una seed, cómo protegerlas, cómo hacer un backup, cómo restaurar una cuenta, cómo delegar el voto para el staking), riesgo intermedio (existe aún un riesgo intermedio en este caso, por ejemplo, si la computadora del usuario fue comprometida, o lo fue la extensión de Yoroi, o si el usuario instaló una extensión no oficial).
 - Otros servicios: por ahora (Julio 2021) el usuario puede delegar el voto de sus monedas para el staking y así generar ingresos pasivos (pagados en ADA).
 - ¿Cuáles serían los pasos a seguir?
-- Instalar la extensión
-- Generar una nueva wallet
-- Guardar la private key o la seed, o ambas, de forma segura (la seed son doce palabras que se utilizan para generar la private key)
-- Borrar la wallet y volver a restaurarla (para confirmar que el backup de la seed es correcto)
-- Recibir y enviar fondos (comenzar con una cantidad mínima)
-- Dependiendo del caso, el usuario puede elegir si intentar delegar una parte de los fondos. No delegar todos los fondos, ya que es necesario mantener una cantidad líquida en la wallet para pagar las fees. Si la wallet se queda sin ADA líquidas, no va a poder retirar las que delegó.
+  - Instalar la extensión
+  - Generar una nueva wallet
+  - Guardar la private key o la seed, o ambas, de forma segura (la seed son doce palabras que se utilizan para generar la private key)
+  - Borrar la wallet y volver a restaurarla (para confirmar que el backup de la seed es correcto)
+  - Recibir y enviar fondos (comenzar con una cantidad mínima)
+  - Dependiendo del caso, el usuario puede elegir si intentar delegar una parte de los fondos. No delegar todos los fondos, ya que es necesario mantener una cantidad líquida en la wallet para pagar las fees. Si la wallet se queda sin ADA líquidas, no va a poder retirar las que delegó.
 
 ### 3. Hardware wallet + passphrase
 
