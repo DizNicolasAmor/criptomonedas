@@ -3,11 +3,13 @@
 
 ## ÍNDICE
 
-- [01. INTRODUCCIÓN](#01.-INTRODUCCIÓN)
-- [02. BLOCKCHAINS CON Y SIN SMART CONTRACTS](#02.-BLOCKCHAINS-CON-Y-SIN-SMART-CONTRACTS)
-- [03. ROADMAP PARA UN USUARIO DE CRIPTOMONEDAS](#03.-ROADMAP-PARA-UN-USUARIO-DE-CRIPTOMONEDAS)
-- [04. EJEMPLOS DE OPCIONES PARA UTILIZAR CARDANO (ADA)](#04.-EJEMPLOS-DE-OPCIONES-PARA-UTILIZAR-CARDANO-(ADA))
+- [01. INTRODUCCIÓN](#cap-01)
+- [02. BLOCKCHAINS CON Y SIN SMART CONTRACTS](#cap-02)
+- [03. ROADMAP PARA UN USUARIO DE CRIPTOMONEDAS](#cap-03)
+- [04. EJEMPLOS DE OPCIONES PARA UTILIZAR CARDANO (ADA)](#cap-04)
 
+
+<a name="cap-01"/>
 
 ## 01. INTRODUCCIÓN
 
@@ -73,6 +75,8 @@ Tener en cuenta:
 - Public key: para cada blockchain es distinta. Quienes comienzan usando exchanges centralizados pueden pensar que la misma dirección sirve para varias blockchains, pero no siempre es así.
 
 
+<a name="cap-02"/>
+
 ## 02. BLOCKCHAINS CON Y SIN SMART CONTRACTS
 
 - Sin SM
@@ -120,6 +124,8 @@ Para cada caso hay que analizar qué tan confiables y respaldados están.
 
 También, al enviar o recibir una crypto (tanto nativa como token), es importante prestar atención en cuál blockchain se realiza la transacción. Por ejemplo, si alguien espera recibir BTC en una wallet de bitcoin, pero le envían el token BTC por la blockchain de bsc, esas cryptos nunca le van a llegar, y no hay forma de revertir la transacción. Ese dinero se pierde. Otro ejemplo: si alguien envía USDT por la red de tron y el receptor lo espera en la red de ethereum (erc 20), en este caso también se pierde el dinero.
 
+
+<a name="cap-03"/>
 
 ## 03. ROADMAP PARA UN USUARIO DE CRIPTOMONEDAS
 
@@ -171,6 +177,8 @@ Esta guía, que es una opinión personal, una propuesta, enumera opciones en ord
 
   Ejemplo: usar una HW e importarla en Metamask. Luego, configurar MM con la bsc o polygon. Luego usar DeFi en esas blockchains.
 
+
+<a name="cap-04"/>
 
 ## 04. EJEMPLOS DE OPCIONES PARA UTILIZAR CARDANO (ADA)
 
