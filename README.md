@@ -1,6 +1,9 @@
 # CRIPTOMONEDAS
 
 
+> El contenido de este archivo no es consejo financiero. En cambio, es meramente informativo: es una colección de apuntes y material relacionado con criptomonedas, basado en distintas fuentes y resumido.
+
+
 ## ÍNDICE
 
 - [01. INTRODUCCIÓN](#cap-01)
