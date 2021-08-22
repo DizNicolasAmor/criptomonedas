@@ -251,10 +251,6 @@ El siguiente paso es utilizar una software wallet del cual el usuario tenga la p
 
 ## 09. MATERIAL DE INTERÉS
 
-### Economía
-
-- Libros (completar)
-
 ### Andreas Antonopoulos
 
 - Libros (completar)
@@ -262,11 +258,11 @@ El siguiente paso es utilizar una software wallet del cual el usuario tenga la p
 
 ### Exchanges centralizados
 
-- Binance:
-- Coinbase:
-- Kraken:
-- Huobi:
-- Kukoin:
+- Binance: https://www.binance.com/
+- Coinbase: https://www.coinbase.com/
+- Kraken: https://www.kraken.com/
+- Huobi: https://www.huobi.com/
+- Kucoin: https://www.kucoin.com/
 
 ### Exchanges descentralizados
 
@@ -275,6 +271,27 @@ El siguiente paso es utilizar una software wallet del cual el usuario tenga la p
 - Sushiswap (multichain): https://sushi.com/
 - Pancakeswap (en la bsc blockchain): https://pancakeswap.finance/
 - Quickswap (en la polygon blockchain): https://quickswap.exchange/
+
+### Finanzas centralizadas
+
+- Nexo: https://nexo.io/
+- BlockFi: https://blockfi.com/
+- Celsius: https://celsius.network/
+- crypto.com: https://crypto.com/
+
+### Finanzas descentralizadas
+
+- Compound finance (en ethereum): https://compound.finance/
+- Aave (multichain): https://aave.com/
+- Curve (multichain): https://curve.fi/
+- Venus: https://venus.finance/app
+
+### Explorers de las blockchains
+
+- Bitcoin: https://www.blockchain.com/explorer
+- Ethereum: https://etherscan.io/
+- BSC: https://bscscan.com/
+- Polygon: https://polygonscan.com/
 
 ### Hardware wallets
 
@@ -286,20 +303,6 @@ El siguiente paso es utilizar una software wallet del cual el usuario tenga la p
 - Coingecko: https://www.coingecko.com/
 - Coinmarketcap: https://coinmarketcap.com/
 - DeFiPulse (sobre DeFi): https://defipulse.com/
-
-### Finanzas descentralizadas
-
-- Compound finance (en ethereum): https://compound.finance/
-- Aave (multichain): https://aave.com/
-- Curve (multichain): https://curve.fi/
-- Venus:
-
-### Explorers de las blockchains
-
-- Bitcoin: https://www.blockchain.com/explorer
-- Ethereum: https://etherscan.io/
-- BSC: https://bscscan.com/
-- Polygon: https://polygonscan.com/
 
 ### Noticias
 
