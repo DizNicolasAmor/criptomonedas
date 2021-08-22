@@ -1,8 +1,6 @@
 # CRIPTOMONEDAS
 
-
 > El contenido de este archivo no es consejo financiero. En cambio, es meramente informativo: es una colección de apuntes y material relacionado con criptomonedas, basado en distintas fuentes y resumido.
-
 
 ## ÍNDICE
 
@@ -10,7 +8,6 @@
 - [02. BLOCKCHAINS CON Y SIN SMART CONTRACTS](#cap-02)
 - [03. ROADMAP PARA UN USUARIO DE CRIPTOMONEDAS](#cap-03)
 - [04. EJEMPLOS DE OPCIONES PARA UTILIZAR CARDANO (ADA)](#cap-04)
-
 
 <a name="cap-01"/>
 
@@ -27,25 +24,26 @@
 
 ### ¿Qué son las criptomonedas?
 
-- Son otros proyectos que tomaron como referencia a bitcoin y cambiaron algunas características. 
+- Son otros proyectos que tomaron como referencia a bitcoin y cambiaron algunas características.
 - Cada uno es distinto: no todos son descentralizados, ni privados, ni open source, ni tienen las mismas propiedades monetarias.
 - Sin embargo, podríamos decir que en general comparten las características de que son blockchains y para los usuarios finales comunes, la forma de interactuar con la red es bastante similar.
 
 ### ¿Cómo participar en la red de una crypto?
 
 - Forma directa:
-    - Ser un validador (crear un nodo).
-    - Ser un usuario común (tener una wallet: recibir fondos y crear transacciones).
+
+  - Ser un validador (crear un nodo).
+  - Ser un usuario común (tener una wallet: recibir fondos y crear transacciones).
 
 - Forma indirecta:
-    - Usar un servicio que administre tu wallet por vos (exchanges, fintechs, pools que dicen que tienen nodos validadores). Es decir, cuando por ejemplo una persona dice que "tiene BTC en binance o en coinbase", en realidad los fondos los tiene dicha empresa.
+  - Usar un servicio que administre tu wallet por vos (exchanges, fintechs, pools que dicen que tienen nodos validadores). Es decir, cuando por ejemplo una persona dice que "tiene BTC en binance o en coinbase", en realidad los fondos los tiene dicha empresa.
 
 ### ¿Qué son las Private Keys y por qué son importantes?
 
 - La PK es la parte más importante de una wallet: es una serie de caracteres que sirve para generar la public key (la dirección donde tu wallet puede recibir fondos, algo así como el CBU) y también para firmar/realizar transacciones.
 - Quien tiene acceso a la PK tiene acceso a los fondos de esa wallet. Por eso,
-"Not your keys not your coins"
-- Si perdés la Private Key, perdés acceso a tus fondos y no hay forma de recuperarlos. 
+  "Not your keys not your coins"
+- Si perdés la Private Key, perdés acceso a tus fondos y no hay forma de recuperarlos.
 - ¿Cómo se relaciona con las formas de participar que vimos en el punto anterior?
 
 ### ¿Cómo crear una wallet?
@@ -77,12 +75,12 @@ Tener en cuenta:
 - Concepto de "Fee".
 - Public key: para cada blockchain es distinta. Quienes comienzan usando exchanges centralizados pueden pensar que la misma dirección sirve para varias blockchains, pero no siempre es así.
 
-
 <a name="cap-02"/>
 
 ## 02. BLOCKCHAINS CON Y SIN SMART CONTRACTS
 
 - Sin SM
+
   - La red descentralizada sólo procesa y guarda datos de las transacciones en su moneda nativa.
   - Ejemplos: bitcoin, bitcoin cash, litecoin, dogecoin, monero.
 
@@ -127,7 +125,6 @@ Para cada caso hay que analizar qué tan confiables y respaldados están.
 
 También, al enviar o recibir una crypto (tanto nativa como token), es importante prestar atención en cuál blockchain se realiza la transacción. Por ejemplo, si alguien espera recibir BTC en una wallet de bitcoin, pero le envían el token BTC por la blockchain de bsc, esas cryptos nunca le van a llegar, y no hay forma de revertir la transacción. Ese dinero se pierde. Otro ejemplo: si alguien envía USDT por la red de tron y el receptor lo espera en la red de ethereum (erc 20), en este caso también se pierde el dinero.
 
-
 <a name="cap-03"/>
 
 ## 03. ROADMAP PARA UN USUARIO DE CRIPTOMONEDAS
@@ -136,50 +133,49 @@ Esta guía, que es una opinión personal, una propuesta, enumera opciones en ord
 
 ### 1. CeFi
 
-  - 1.1. CeFi + Stablecoins
-  - 1.2. CeFi + Otra crypto
+- 1.1. CeFi + Stablecoins
+- 1.2. CeFi + Otra crypto
 
-  Si bien usar un servicio centralizado puede ser algo contrario a la filosofía de bitcoin, considero que sí puede ser un primer paso útil. En empresas como binance, coinbase, nexo u otras, la UI es amigable y además hay material didáctico (artículos, videos, cursos). Uno puede aprender cuestiones básicas sobre cada crypto, cómo funciona y recibir noticias importantes sobre el tema. También va a ver las diferencias entre distintas wallets. Y al realizar envíos, va a conocer las distintas redes (blockchains) por donde se puede enviar un token (relacionar los distintos tokens con sus blockchains) y sus respectivos fees.
-  Si a uno le asusta que BTC pueda caer 30% en un día, puede ser una buena opción comenzar con stablecoins. Además hay plataformas como nexo o binance que permiten generar ingresos pasivos con esos tokens.
+Si bien usar un servicio centralizado puede ser algo contrario a la filosofía de bitcoin, considero que sí puede ser un primer paso útil. En empresas como binance, coinbase, nexo u otras, la UI es amigable y además hay material didáctico (artículos, videos, cursos). Uno puede aprender cuestiones básicas sobre cada crypto, cómo funciona y recibir noticias importantes sobre el tema. También va a ver las diferencias entre distintas wallets. Y al realizar envíos, va a conocer las distintas redes (blockchains) por donde se puede enviar un token (relacionar los distintos tokens con sus blockchains) y sus respectivos fees.
+Si a uno le asusta que BTC pueda caer 30% en un día, puede ser una buena opción comenzar con stablecoins. Además hay plataformas como nexo o binance que permiten generar ingresos pasivos con esos tokens.
 
 ### 2. Software wallet personal
 
-  - 2.1.	SW personal + crypto nativa
-  - 2.2.	SW personal + crypto nativa + DeFi
-  - 2.3.	SW personal + crypto nativa + Token + DeFi
+- 2.1. SW personal + crypto nativa
+- 2.2. SW personal + crypto nativa + DeFi
+- 2.3. SW personal + crypto nativa + Token + DeFi
 
-  En esta etapa la idea es aprender a: generar una wallet de la cual uno tenga posesión de las private keys, tener conceptos básicos sobre su seguridad, poder restaurar una cuenta, enviar y recibir cryptos desde ella. Nota: es importante usar la crypto nativa, ya que es la que sirve para pagar las fees.
+En esta etapa la idea es aprender a: generar una wallet de la cual uno tenga posesión de las private keys, tener conceptos básicos sobre su seguridad, poder restaurar una cuenta, enviar y recibir cryptos desde ella. Nota: es importante usar la crypto nativa, ya que es la que sirve para pagar las fees.
 
-  Ejemplos: metamask para ethereum, yoroi para cardano, polkadot.js para polkadot y kusama. Exodus para varias blockchains.
+Ejemplos: metamask para ethereum, yoroi para cardano, polkadot.js para polkadot y kusama. Exodus para varias blockchains.
 
-### 3.	Paper wallet
+### 3. Paper wallet
 
-  - 3.1.	Paper wallet + software wallet
+- 3.1. Paper wallet + software wallet
 
-  En esta etapa la idea es aprender cómo funciona una paper wallet y cómo se puede recuperar (importar en una SW). Si después de importarla uno quiere volver a la seguridad de una paper wallet, puede volver a enviar los fondos a una PW cuya private key no haya sido expuesta.
+En esta etapa la idea es aprender cómo funciona una paper wallet y cómo se puede recuperar (importar en una SW). Si después de importarla uno quiere volver a la seguridad de una paper wallet, puede volver a enviar los fondos a una PW cuya private key no haya sido expuesta.
 
-  Ejemplos: paper wallet de BTC se puede importar en blockchain.info , mientras que paper wallet de ethereum se puede importar en metamask.
+Ejemplos: paper wallet de BTC se puede importar en blockchain.info , mientras que paper wallet de ethereum se puede importar en metamask.
 
-### 4.	Hardware wallet
+### 4. Hardware wallet
 
-  - 4.1.	HW + crypto nativa
-  - 4.2.	HW + crypto nativa + delegating
-  - 4.3.	HW + crypto nativa + DeFi
+- 4.1. HW + crypto nativa
+- 4.2. HW + crypto nativa + delegating
+- 4.3. HW + crypto nativa + DeFi
 
-  Ejemplos: trezor y ledger. Cada una tiene su UI nativa.
+Ejemplos: trezor y ledger. Cada una tiene su UI nativa.
 
-### 5.	Hardware wallet + software wallet
+### 5. Hardware wallet + software wallet
 
-  - 5.1. HW + SW + DeFi + Staking o delegating + NFT
+- 5.1. HW + SW + DeFi + Staking o delegating + NFT
 
-  Ejemplo: importar una HW de ADA en Yoroi y delegar algunos ADA (no todos, ya que se necesitan cryptos nativas para las fees).
+Ejemplo: importar una HW de ADA en Yoroi y delegar algunos ADA (no todos, ya que se necesitan cryptos nativas para las fees).
 
-  Otro ejemplo: importar una HW de Cosmos en Keplr y delegar algunos ATOM (no todos, ya que se necesitan cryptos nativas para las fees).
+Otro ejemplo: importar una HW de Cosmos en Keplr y delegar algunos ATOM (no todos, ya que se necesitan cryptos nativas para las fees).
 
-### 6.	HW + SW + configurar una Layer 2 o una blockchain secundaria
+### 6. HW + SW + configurar una Layer 2 o una blockchain secundaria
 
-  Ejemplo: usar una HW e importarla en Metamask. Luego, configurar MM con la bsc o polygon. Luego usar DeFi en esas blockchains.
-
+Ejemplo: usar una HW e importarla en Metamask. Luego, configurar MM con la bsc o polygon. Luego usar DeFi en esas blockchains.
 
 <a name="cap-04"/>
 
