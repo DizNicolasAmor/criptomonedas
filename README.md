@@ -250,3 +250,58 @@ El siguiente paso es utilizar una software wallet del cual el usuario tenga la p
 <a name="cap-09"/>
 
 ## 09. MATERIAL DE INTERÉS
+
+### Economía
+
+- Libros (completar)
+
+### Andreas Antonopoulos
+
+- Libros (completar)
+- Entrevistar (completar)
+
+### Exchanges centralizados
+
+- Binance:
+- Coinbase:
+- Kraken:
+- Huobi:
+- Kukoin:
+
+### Exchanges descentralizados
+
+- Uniswap (en la ethereum blockchain): https://uniswap.org/
+- 1Inch (multichain): https://1inch.exchange/#/
+- Sushiswap (multichain): https://sushi.com/
+- Pancakeswap (en la bsc blockchain): https://pancakeswap.finance/
+- Quickswap (en la polygon blockchain): https://quickswap.exchange/
+
+### Hardware wallets
+
+- Trezor: https://trezor.io/
+- Ledger: https://www.ledger.com/
+
+### Información del mercado
+
+- Coingecko: https://www.coingecko.com/
+- Coinmarketcap: https://coinmarketcap.com/
+- DeFiPulse (sobre DeFi): https://defipulse.com/
+
+### Finanzas descentralizadas
+
+- Compound finance (en ethereum): https://compound.finance/
+- Aave (multichain): https://aave.com/
+- Curve (multichain): https://curve.fi/
+- Venus:
+
+### Explorers de las blockchains
+
+- Bitcoin: https://www.blockchain.com/explorer
+- Ethereum: https://etherscan.io/
+- BSC: https://bscscan.com/
+- Polygon: https://polygonscan.com/
+
+### Noticias
+
+- Cointelegraph: https://cointelegraph.com/
+- Criptonoticias: https://www.criptonoticias.com/
