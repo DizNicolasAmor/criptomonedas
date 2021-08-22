@@ -8,6 +8,11 @@
 - [02. BLOCKCHAINS CON Y SIN SMART CONTRACTS](#cap-02)
 - [03. ROADMAP PARA UN USUARIO DE CRIPTOMONEDAS](#cap-03)
 - [04. EJEMPLOS DE OPCIONES PARA UTILIZAR CARDANO (ADA)](#cap-04)
+- [05. COMPLETAR](#cap-05)
+- [06. COMPLETAR](#cap-06)
+- [07. COMPLETAR](#cap-07)
+- [08. COMPLETAR](#cap-08)
+- [09. MATERIAL DE INTERÉS](#cap-09)
 
 <a name="cap-01"/>
 
@@ -225,3 +230,23 @@ El siguiente paso es utilizar una software wallet del cual el usuario tenga la p
   - Generar una cuenta con una passphrase.
   - Salir de esa cuenta y volver a entrar, para corroborar que la passphrase es correcta.
   - Dentro de Yoroi se puede importar la hardware wallet, para utilizar las funcionalidades explicadas en el punto anterior.
+
+<a name="cap-05"/>
+
+## 05. COMPLETAR
+
+<a name="cap-06"/>
+
+## 06. COMPLETAR
+
+<a name="cap-07"/>
+
+## 07. COMPLETAR
+
+<a name="cap-08"/>
+
+## 08. COMPLETAR
+
+<a name="cap-09"/>
+
+## 09. MATERIAL DE INTERÉS
