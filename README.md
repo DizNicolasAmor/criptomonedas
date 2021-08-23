@@ -296,6 +296,8 @@ El siguiente paso es utilizar una software wallet del cual el usuario tenga la p
 
 ### Exchanges centralizados
 
+> Recordar que en estos exchanges hay secciones educativas muy recomendables.
+
 - Binance: https://www.binance.com/
 - Coinbase: https://www.coinbase.com/
 - Kraken: https://www.kraken.com/
@@ -332,6 +334,8 @@ El siguiente paso es utilizar una software wallet del cual el usuario tenga la p
 - Polygon: https://polygonscan.com/
 
 ### Hardware wallets
+
+> Las páginas oficiales de las hardware wallets en general también poseen secciones educativas muy recomendables.
 
 - Trezor: https://trezor.io/
 - Ledger: https://www.ledger.com/
