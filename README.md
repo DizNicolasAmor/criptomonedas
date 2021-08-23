@@ -253,8 +253,14 @@ El siguiente paso es utilizar una software wallet del cual el usuario tenga la p
 
 ### Andreas Antonopoulos
 
-- Libros (completar)
-- Entrevistar (completar)
+- Página oficial: https://aantonop.com/
+- The Internet of Money (book)
+- Mastering Bitcoin (book)
+- Mastering Ethereum (book)
+- The Death of Money - PART 1/2 | London Real: https://www.youtube.com/watch?v=DuoE5CXlIdY
+- Escaping the Global Banking Cartel: https://www.youtube.com/watch?v=LgI0liAee4s
+- Cryptocurrency Explained: All the ships are sinking (Currency Wars II): https://www.youtube.com/watch?v=stN03wk_Wzs
+- The Crypto Airplane: understanding cryptocurrency ownership [bitcoin, ethereum]: https://www.youtube.com/watch?v=tYldJpSPeqg
 
 ### Exchanges centralizados
 
