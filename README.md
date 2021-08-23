@@ -5,14 +5,44 @@
 ## ÍNDICE
 
 - [01. INTRODUCCIÓN](#cap-01)
+  - ¿Qué es bitcoin?
+  - ¿Qué son las criptomonedas?
+  - ¿Cómo participar en la red de una crypto?
+  - ¿Qué son las Private Keys y por qué son importantes?
+  - ¿Cómo crear una wallet?
+  - Comentarios finales
 - [02. BLOCKCHAINS CON Y SIN SMART CONTRACTS](#cap-02)
+  - Con SM VS sin SM
+  - ¿En qué se diferencia una crypto nativa de un token?
+  - ¿Qué tipos de tokens existen?
+  - ¿Qué son las stablecoins?
+  - ¿Cuáles son las stablecoins más importantes?
+  - ¿Por qué existen las mismas cryptos en distintas blockchains?
 - [03. ROADMAP PARA UN USUARIO DE CRIPTOMONEDAS](#cap-03)
+  - 1. CeFi
+  - 2. Software wallet personal
+  - 3. Paper wallet
+  - 4. Hardware wallet
+  - 5. Hardware wallet + software wallet
+  - 6. HW + SW + configurar una Layer 2 o una blockchain secundaria
 - [04. EJEMPLOS DE OPCIONES PARA UTILIZAR CARDANO (ADA)](#cap-04)
+  - 1. Exchange centralizado
+  - 2. Software wallet + private key
+  - 3. Hardware wallet + passphrase
 - [05. COMPLETAR](#cap-05)
 - [06. COMPLETAR](#cap-06)
 - [07. COMPLETAR](#cap-07)
 - [08. COMPLETAR](#cap-08)
 - [09. MATERIAL DE INTERÉS](#cap-09)
+  - Andreas Antonopoulos
+  - Exchanges centralizados
+  - Exchanges descentralizados
+  - Finanzas centralizadas
+  - Finanzas descentralizadas
+  - Explorers de las blockchains
+  - Hardware wallets
+  - Información del mercado
+  - Noticias
 
 <a name="cap-01"/>
 
@@ -83,6 +113,8 @@ Tener en cuenta:
 <a name="cap-02"/>
 
 ## 02. BLOCKCHAINS CON Y SIN SMART CONTRACTS
+
+### Con SM VS sin SM
 
 - Sin SM
 
