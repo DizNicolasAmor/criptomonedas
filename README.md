@@ -29,7 +29,7 @@
   - 1. Exchange centralizado
   - 2. Software wallet + private key
   - 3. Hardware wallet + passphrase
-- [05. COMPLETAR](#cap-05)
+- [05. EJEMPLOS DE OPCIONES PARA UTILIZAR ETHEREUM (ETH)](#cap-05)
 - [06. COMPLETAR](#cap-06)
 - [07. COMPLETAR](#cap-07)
 - [08. COMPLETAR](#cap-08)
@@ -224,7 +224,7 @@ Esta guía, que es una opinión personal, enumera opciones para utilizar Cardano
 
 El paso más sencillo desde luego es abrir una cuenta en en un exchange que soporte la criptomoneda que uno busca (en este ejemplo, ADA). Después de crear la cuenta, el exchange crea una wallet y el usuario puede enviar y recibir monedas a esa wallet. Depende del exchange, a veces también se puede comprar y vender a cambio de monedas fiduciarias. Y por supuesto, también se pueden intercambiar (exchange, en inglés) por otras criptomonedas.
 
-- Ejemplos: Binance, Coinbase.
+- Ejemplos: Binance, Coinbase, Kraken, Huobi, Kucoin, crypto.com.
 - Ventajas: mayor sencillez, menor responsabilidad en el acceso a la wallet.
 - Desventajas: menor seguridad (las monedas no están en poder del usuario, sino de la empresa que las tiene. Riesgos: pueden cambiar los TyC, pueden hackear el exchange, pueden hackear la cuenta del usuario).
 - Otros servicios: depende el exchange, a veces también el usuario puede acceder a servicios financieros con sus ADA dentro del exchange. Por ejemplo, prestarlos (lending, saving) o delegarlos (para el staking) y así generar ingresos pasivos (generalmente en ADA).
@@ -265,7 +265,41 @@ El siguiente paso es utilizar una software wallet del cual el usuario tenga la p
 
 <a name="cap-05"/>
 
-## 05. COMPLETAR
+## 05. EJEMPLOS DE OPCIONES PARA UTILIZAR ETHEREUM (ETH)
+
+### 1. Exchange centralizado
+
+Este punto es similar a la primera parte del [04. EJEMPLOS DE OPCIONES PARA UTILIZAR CARDANO (ADA)](#cap-04)
+
+### 2. Software wallet + private key
+
+Este paso consiste en utilizar una software wallet del cual el usuario tenga la private key en su poder:
+
+- Ejemplos: Metamask, MyEtherWallet, blockchain.info.
+- Ventajas: mayor poder sobre las criptomonedas (ahora las monedas están en posesión del usuario, ya que posee la private key), menos regulaciones y restricciones.
+- Desventajas: mayor complejidad (hay que aprender qué es una private key, qué es una seed, cómo protegerlas, cómo hacer un backup, cómo restaurar una cuenta), riesgo intermedio (existe aún un riesgo intermedio en este caso, por ejemplo, si la computadora del usuario fue comprometida, o el software hackeado, o si el usuario instaló un software no oficial).
+- Otros servicios: el usuario puede interactuar con aplicaciones descentralizadas, como por ejemplo DeFi, juegos y demás.
+- ¿Cuáles serían los pasos a seguir?
+  - En caso de ser necesario, instalar la extensión o el software.
+  - Generar una nueva wallet.
+  - Guardar la private key o la seed, o ambas, de forma segura (la seed son doce palabras que se utilizan para generar la private key).
+  - Borrar la wallet y volver a restaurarla (para confirmar que el backup de la seed es correcto).
+  - Recibir y enviar fondos (comenzar con una cantidad mínima).
+  - En una etapa más avanzada, el usuario elegir si interactuar con alguna aplicación descentralizada.
+
+### 3. Hardware wallet + passphrase
+
+- Ejemplo: Ledger o Trezor.
+- Ventajas: mayor seguridad.
+- Desventajas: mayor complejidad (hay que aprender qué es una hardware wallet, cómo proteger la seed, cómo hacer un backup, cómo restaurar una cuenta, cómo usar una passphrase).
+- Otros servicios: idem anterior.
+- ¿Cuáles serían los pasos a seguir?
+  - Obtener una hardware wallet. Importante: se recomienda no comprarla de segunda mano ya que puede estar comprometida, sino directo de la empresa que las fabrica. Y deben estar cerradas como se muestra en las páginas oficiales de la empresa fabricante correspondiente.
+  - Generar una nueva wallet.
+  - Guardar la seed de forma segura.
+  - Generar una cuenta con una passphrase.
+  - Salir de esa cuenta y volver a entrar, para corroborar que la passphrase es correcta.
+  - Dentro de Metamask, por ejemplo, se puede importar la hardware wallet, para utilizar las funcionalidades explicadas en el punto anterior.
 
 <a name="cap-06"/>
 
