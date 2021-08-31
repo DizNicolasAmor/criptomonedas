@@ -30,11 +30,14 @@
   - 2. Software wallet + private key
   - 3. Hardware wallet + passphrase
 - [05. EJEMPLOS DE OPCIONES PARA UTILIZAR ETHEREUM (ETH)](#cap-05)
+  - 1. Exchange centralizado
+  - 2. Software wallet + private key
+  - 3. Hardware wallet + passphrase
 - [06. COMPLETAR](#cap-06)
 - [07. COMPLETAR](#cap-07)
 - [08. COMPLETAR](#cap-08)
 - [09. MATERIAL DE INTERÉS](#cap-09)
-  - Andreas Antonopoulos
+  - Divulgadores
   - Exchanges centralizados
   - Exchanges descentralizados
   - Finanzas centralizadas
@@ -317,16 +320,21 @@ Este paso consiste en utilizar una software wallet del cual el usuario tenga la 
 
 ## 09. MATERIAL DE INTERÉS
 
-### Andreas Antonopoulos
+### Divulgadores
 
-- Página oficial: https://aantonop.com/
-- The Internet of Money (book)
-- Mastering Bitcoin (book)
-- Mastering Ethereum (book)
-- The Death of Money - PART 1/2 | London Real: https://www.youtube.com/watch?v=DuoE5CXlIdY
-- Escaping the Global Banking Cartel: https://www.youtube.com/watch?v=LgI0liAee4s
-- Cryptocurrency Explained: All the ships are sinking (Currency Wars II): https://www.youtube.com/watch?v=stN03wk_Wzs
-- The Crypto Airplane: understanding cryptocurrency ownership [bitcoin, ethereum]: https://www.youtube.com/watch?v=tYldJpSPeqg
+- Andreas Antonopoulos
+  - Página oficial: https://aantonop.com/
+  - The Internet of Money (book)
+  - Mastering Bitcoin (book)
+  - Mastering Ethereum (book)
+  - The Death of Money - PART 1/2 | London Real: https://www.youtube.com/watch?v=DuoE5CXlIdY
+  - Escaping the Global Banking Cartel: https://www.youtube.com/watch?v=LgI0liAee4s
+  - Cryptocurrency Explained: All the ships are sinking (Currency Wars II): https://www.youtube.com/watch?v=stN03wk_Wzs
+  - The Crypto Airplane: understanding cryptocurrency ownership [bitcoin, ethereum]: https://www.youtube.com/watch?v=tYldJpSPeqg
+- Benjamin Cowen
+- Bob Loukas
+- Charles Hoskinson (Cardano founder)
+- Finematics
 
 ### Exchanges centralizados
 
