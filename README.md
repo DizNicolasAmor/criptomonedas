@@ -33,7 +33,10 @@
   - 1. Exchange centralizado
   - 2. Software wallet + private key
   - 3. Hardware wallet + passphrase
-- [06. COMPLETAR](#cap-06)
+- [06. GUÍA PARA EL ECOSISTEMA COSMOS (ATOM)](#cap-06)
+  - Wallets
+  - Delegación
+  - Ecosistema
 - [07. COMPLETAR](#cap-07)
 - [08. COMPLETAR](#cap-08)
 - [09. MATERIAL DE INTERÉS](#cap-09)
@@ -306,7 +309,26 @@ Este paso consiste en utilizar una software wallet del cual el usuario tenga la 
 
 <a name="cap-06"/>
 
-## 06. COMPLETAR
+## 06. GUÍA PARA EL ECOSISTEMA COSMOS (ATOM)
+
+- Wallets
+
+  - Lo más sencillo para comenzar es utilizar la extensión keplr. Es una extensión de Chromium que funciona de manera similar a Metamask o Yoroi, sólo que en las blockchain de Cosmos. Una alternativa a Keplr es Cosmostation.
+    - Keplr: https://keplr.app/
+    - Cosmostation: https://www.cosmostation.io/
+  - Al igual que Metamask y Yoroi, Keplr es una interfaz que permite utilizar por ejemplo una hardware wallet como Ledger. Por lo tanto, el consejo final para utilizar una wallet de Cosmos es: crear una wallet en Ledger con PassPhrase y luego utilizar Keplr como interfaz.
+
+- Delegación
+
+  - Las criptomonedas de tu wallet pueden delegarse a un nodo y de esa forma generar ingresos pasivos.
+  - Al delegar, las monedas salen de la wallet delegadora (gran diferencia con ADA).
+  - Al delegar, se tarda 21 días en comenzar a recibir recompensas.
+  - Al dejar de delegar, se tarda 21 días en que las monedas regresen a la wallet delegadora.
+
+- Ecosistema
+
+  - Con la misma private key que uno generó la wallet de Cosmos (ATOM), también tenés wallets en otras blockchains como Secret Network, Sentinel, Iris, Kava, entre otras.
+  - Se puede hacer transferencias entre blockchains utilizando el puente IBC.
 
 <a name="cap-07"/>
 
