@@ -40,12 +40,12 @@
 - [07. COMPLETAR](#cap-07)
 - [08. COMPLETAR](#cap-08)
 - [09. MATERIAL DE INTERÉS](#cap-09)
+  - Blockchains principales
   - Divulgadores
   - Exchanges centralizados
   - Exchanges descentralizados
   - Finanzas centralizadas
   - Finanzas descentralizadas
-  - Explorers de las blockchains
   - Hardware wallets
   - Información del mercado
   - Noticias
@@ -342,6 +342,39 @@ Este paso consiste en utilizar una software wallet del cual el usuario tenga la 
 
 ## 09. MATERIAL DE INTERÉS
 
+### Blockchains principales
+
+- Bitcoin
+  - Página oficial: https://bitcoin.org/
+  - Whitepaper: https://bitcoin.org/bitcoin.pdf
+  - Source code: https://github.com/bitcoin/
+  - Data: https://www.blockchain.com/charts
+  - Explorer: https://www.blockchain.com/explorer
+- Ethereum
+  - Página oficial: https://ethereum.org/
+  - Whitepaper: https://github.com/ethereum/wiki/wiki/White-Paper
+  - Source code: https://github.com/ethereum
+  - Data: https://etherscan.io/charts
+  - Explorer: https://etherscan.io/
+- Cardano
+  - Página oficial:
+  - Whitepaper:
+  - Source code:
+  - Data:
+  - Explorer: https://bscscan.com/
+- BSC
+  - Página oficial:
+  - Whitepaper:
+  - Source code:
+  - Data:
+  - Explorer: https://bscscan.com/
+- Polygon
+  - Página oficial:
+  - Whitepaper:
+  - Source code:
+  - Data:
+  - Explorer: https://polygonscan.com/
+
 ### Divulgadores
 
 - Andreas Antonopoulos
@@ -389,13 +422,6 @@ Este paso consiste en utilizar una software wallet del cual el usuario tenga la 
 - Aave (multichain): https://aave.com/
 - Curve (multichain): https://curve.fi/
 - Venus: https://venus.finance/app
-
-### Explorers de las blockchains
-
-- Bitcoin: https://www.blockchain.com/explorer
-- Ethereum: https://etherscan.io/
-- BSC: https://bscscan.com/
-- Polygon: https://polygonscan.com/
 
 ### Hardware wallets
 
