@@ -357,22 +357,22 @@ Este paso consiste en utilizar una software wallet del cual el usuario tenga la 
   - Data: https://etherscan.io/charts
   - Explorer: https://etherscan.io/
 - Cardano
-  - Página oficial:
-  - Whitepaper:
-  - Source code:
-  - Data:
-  - Explorer: https://bscscan.com/
+  - Página oficial: https://cardano.org/
+  - Whitepaper: https://docs.cardano.org/introduction
+  - Source code: https://cardanoupdates.com/
+  - Data: https://cardanoscan.io/
+  - Explorer: https://cardanoscan.io/
 - BSC
-  - Página oficial:
-  - Whitepaper:
-  - Source code:
-  - Data:
+  - Página oficial: https://www.binance.com/en
+  - Whitepaper: -
+  - Source code: -
+  - Data: https://bscscan.com/
   - Explorer: https://bscscan.com/
 - Polygon
-  - Página oficial:
-  - Whitepaper:
-  - Source code:
-  - Data:
+  - Página oficial: https://polygon.technology/
+  - Whitepapers: https://polygon.technology/papers/
+  - Source code: https://github.com/maticnetwork/
+  - Data: https://polygonscan.com/charts
   - Explorer: https://polygonscan.com/
 
 ### Divulgadores
