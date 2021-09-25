@@ -37,7 +37,10 @@
   - Wallets
   - Delegación
   - Ecosistema
-- [07. COMPLETAR](#cap-07)
+- [07. INTRODUCCIÓN A POLYGON](#cap-07)
+  - Definición
+  - Wallets
+  - Uso
 - [08. COMPLETAR](#cap-08)
 - [09. MATERIAL DE INTERÉS](#cap-09)
   - Blockchains principales
@@ -332,7 +335,27 @@ Este paso consiste en utilizar una software wallet del cual el usuario tenga la 
 
 <a name="cap-07"/>
 
-## 07. COMPLETAR
+## 07. INTRODUCCIÓN A POLYGON
+
+### Definición
+
+La blockchain Polygon (antes conocida como Matic Network) es una solución de segunda capa para Ethereum. Soluciona los problemas de escalabilidad de Ethereum, es decir, fees más baratas y transacciones más rápidas. Ofrece dos soluciones: una relacionada con Plasma y otra con PoS. En contraposición a las ventajas de bajas fees y transacciones rápidas, como desventaja puede señalarse que es menos descentralizada y segura, ya que cuenta con menos nodos validadores.
+
+### Wallets
+
+Como esta blockchain es compatible con la Ethereum Virtual Machine (EVM), para conectarse con ella se puede utilizar la misma dirección de wallet de Ethereum. Por ejemplo, uno puede utilizar una wallet de Trezor o Ledger, utilizar la itnerfaz de Metamask u otra similar y luego configurar la interfaz para que interactúe con Polygon.
+
+En la página oficial de Polygon hay documentación sobre cómo configurar Metamask para interactuar con la blockchain de Polygon.
+
+### Uso
+
+Para recibir criptomonedas en una wallet de la blockchain Polygon hay diferentes opciones:
+
+- Que alguien las envíe desde otra wallet que utilice Polygon: ésta es la opción más sencilla.
+- Enviarlas desde un exchange por la red de Polygon: esta opción es similar a la anterior. Lo comento en un punto aparte porque es importante prestar atención a cuál es la red por la cual se envían las transacciones, y porque algunos exchanges no tienen soporte para la red Polygon.
+- Utilizar un bridge: por ejemplo, Polygon tiene un bridge oficial desde Ethereum. Pueden buscar información en la página oficial del proyecto. Eso significa que uno **desde el bridge** realiza una transacción en la red de Ethereum y puede recibir cryptos en la red Polygon. También hay otros bridges entre otras redes.
+
+Muchas de las dApps importantes de ethereum tienen su versión de segunda capa en Polygon, o existen forks de ellas. Por ejemplo Aave, Curve, Sushi, 1Inch y Decentraland son ejemplos del primer caso, mientras que Quickswap (fork de Uniswap) es ejemplo del segundo.
 
 <a name="cap-08"/>
 
