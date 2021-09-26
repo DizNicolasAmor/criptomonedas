@@ -41,7 +41,10 @@
   - Definición
   - Wallets
   - Uso
-- [08. COMPLETAR](#cap-08)
+- [08. INTRODUCCIÓN A BSC](#cap-08)
+  - Definición
+  - Wallets
+  - Uso
 - [09. MATERIAL DE INTERÉS](#cap-09)
   - Blockchains principales
   - Divulgadores
@@ -359,7 +362,19 @@ Muchas de las dApps importantes de ethereum tienen su versión de segunda capa e
 
 <a name="cap-08"/>
 
-## 08. COMPLETAR
+## 08. INTRODUCCIÓN A BSC
+
+### Definición
+
+completar
+
+### Wallets
+
+completar
+
+### Uso
+
+completar
 
 <a name="cap-09"/>
 
