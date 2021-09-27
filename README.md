@@ -368,7 +368,7 @@ Muchas de las dApps importantes de ethereum tienen su versión de segunda capa e
 
 La Binance Smart Chain (BSC) es una blockchain que utiliza PoS como consenso. Soluciona los problemas de escalabilidad de Ethereum, es decir, fees más baratas. En principio se utilizó como competencia a Ethereum, por lo cual tiene dApps de DeFi, gaming, NFTs, etc. que también existen en Ethereum o son directamente forks.
 
-- Ventajas: las fees son más bajas que Ethereum y la blockchain es centralizada (esto puede ser ventajoso en el sentido de que los desarrollos de apps y mejoras en la blockchain son más dinámicos).
+- Ventajas: las fees son más bajas que Ethereum y la blockchain es centralizada (esto puede ser ventajoso en el sentido de que los desarrollos de apps y mejoras en la blockchain son más dinámicos). Además, en general las dApps de DeFi de la BSC tienen mejores tasas que las de Ethereum, ya que son competencia y es una forma de atraer usuarios.
 - Desventajas: es centralizada, ya que cuenta con pocos nodos validadores y son todos de Binance. Por lo tanto, no es resistente a la censura.
 
 ### Wallets
