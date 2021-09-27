@@ -346,7 +346,7 @@ La blockchain Polygon (antes conocida como Matic Network) es una solución de se
 
 ### Wallets
 
-Como esta blockchain es compatible con la Ethereum Virtual Machine (EVM), para conectarse con ella se puede utilizar la misma dirección de wallet de Ethereum. Por ejemplo, uno puede utilizar una wallet de Trezor o Ledger, utilizar la itnerfaz de Metamask u otra similar y luego configurar la interfaz para que interactúe con Polygon.
+Como esta blockchain es compatible con la Ethereum Virtual Machine (EVM), para conectarse con ella se puede utilizar la misma dirección de wallet de Ethereum. Por ejemplo, uno puede utilizar una wallet de Trezor o Ledger, utilizar la interfaz de Metamask u otra similar y luego configurar la interfaz para que interactúe con Polygon.
 
 En la página oficial de Polygon hay documentación sobre cómo configurar Metamask para interactuar con la blockchain de Polygon.
 
