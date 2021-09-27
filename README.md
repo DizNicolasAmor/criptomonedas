@@ -366,15 +366,26 @@ Muchas de las dApps importantes de ethereum tienen su versión de segunda capa e
 
 ### Definición
 
-completar
+La Binance Smart Chain (BSC) es una blockchain que utiliza PoS como consenso. Soluciona los problemas de escalabilidad de Ethereum, es decir, fees más baratas. En principio se utilizó como competencia a Ethereum, por lo cual tiene dApps de DeFi, gaming, NFTs, etc. que también existen en Ethereum o son directamente forks.
+
+- Ventajas: las fees son más bajas que Ethereum y la blockchain es centralizada (esto puede ser ventajoso en el sentido de que los desarrollos de apps y mejoras en la blockchain son más dinámicos).
+- Desventajas: es centralizada, ya que cuenta con pocos nodos validadores y son todos de Binance. Por lo tanto, no es resistente a la censura.
 
 ### Wallets
 
-completar
+Como esta blockchain es compatible con la Ethereum Virtual Machine (EVM), para conectarse con ella se puede utilizar la misma dirección de wallet de Ethereum. Por ejemplo, uno puede utilizar una wallet de Trezor o Ledger, utilizar la interfaz de Metamask u otra similar y luego configurar la interfaz para que interactúe con BSC.
+
+En la página oficial de Binance hay documentación sobre cómo configurar Metamask para interactuar con la BSC.
 
 ### Uso
 
-completar
+Para recibir criptomonedas en una wallet de la BSC hay diferentes opciones:
+
+- Que alguien las envíe desde otra wallet que utilice Polygon: ésta es la opción más sencilla.
+- Enviarlas desde un exchange por la BSC: esta opción es similar a la anterior. Lo comento en un punto aparte porque es importante prestar atención a cuál es la red por la cual se envían las transacciones. Puede que no todos los exchanges tengan soportes de la BSC, pero la mayoría sí. Y Binance, por supuesto, sí.
+- Utilizar un bridge. Hay bridges desde Ethereum, Polygon y otras. Pueden buscar información en la página oficial del proyecto.
+
+Muchas de las dApps importantes de ethereum tienen su versión de segunda capa en Polygon, o existen forks de ellas. Por ejemplo Aave, Curve, Sushi, 1Inch y Decentraland son ejemplos del primer caso, mientras que Quickswap (fork de Uniswap) es ejemplo del segundo.
 
 <a name="cap-09"/>
 
