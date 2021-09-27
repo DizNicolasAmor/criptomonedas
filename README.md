@@ -385,7 +385,7 @@ Para recibir criptomonedas en una wallet de la BSC hay diferentes opciones:
 - Enviarlas desde un exchange por la BSC: esta opción es similar a la anterior. Lo comento en un punto aparte porque es importante prestar atención a cuál es la red por la cual se envían las transacciones. Puede que no todos los exchanges tengan soportes de la BSC, pero la mayoría sí. Y Binance, por supuesto, sí.
 - Utilizar un bridge. Hay bridges desde Ethereum, Polygon y otras. Pueden buscar información en la página oficial del proyecto.
 
-Muchas de las dApps importantes de ethereum tienen su versión de segunda capa en Polygon, o existen forks de ellas. Por ejemplo Aave, Curve, Sushi, 1Inch y Decentraland son ejemplos del primer caso, mientras que Quickswap (fork de Uniswap) es ejemplo del segundo.
+Muchas de las dApps importantes de Ethereum también existen en BSC o tienen un fork. Por ejemplo Venus protocol es un fork de Compound finance, Pancake swap es un fork de Uniswap. 1Inch, Sushi swap y varios juegos de NFT existen en ambas blockchains.
 
 <a name="cap-09"/>
 
