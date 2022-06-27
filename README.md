@@ -12,7 +12,7 @@
   - ¿Cómo crear una wallet?
   - Comentarios finales
 - [02. BLOCKCHAINS CON Y SIN SMART CONTRACTS](#cap-02)
-  - Con SM VS sin SM
+  - Con SC VS sin SC
   - ¿En qué se diferencia una crypto nativa de un token?
   - ¿Qué tipos de tokens existen?
   - ¿Qué son las stablecoins?
@@ -126,16 +126,16 @@ Tener en cuenta:
 
 ## 02. BLOCKCHAINS CON Y SIN SMART CONTRACTS
 
-### Con SM VS sin SM
+### Con SC VS sin SC
 
-- Sin SM
+- Sin SC
 
   - La red descentralizada sólo procesa y guarda datos de las transacciones en su moneda nativa.
   - Ejemplos: bitcoin, bitcoin cash, litecoin, dogecoin, monero.
 
-- Con SM
-  - La red descentralizada, además de eso, también almacena y ejecuta código, lo que se conoce como Smart Contracts. A partir de los SM, se puede crear otro tipo de criptomonedas que se llaman tokens.
-  - Ejemplos de blockchains con SM: ethereum, bsc, polkadot, kusama, polygon, avalanche, cosmos, terra, próximamente cardano.
+- Con SC
+  - La red descentralizada, además de eso, también almacena y ejecuta código, lo que se conoce como Smart Contracts. A partir de los SC, se puede crear otro tipo de criptomonedas que se llaman tokens.
+  - Ejemplos de blockchains con SC: ethereum, bsc, polkadot, kusama, polygon, avalanche, cosmos, terra, próximamente cardano.
   - Ejemplos de tokens: DAI, USDC, USDT, UNI, CAKE, AAVE, MANA, COMP, WBTC.
 
 ### ¿En qué se diferencia una crypto nativa de un token?
