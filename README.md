@@ -50,11 +50,11 @@
   - Divulgadores
   - Exchanges centralizados
   - Exchanges descentralizados
+  - Exchanges no KYC
   - Finanzas centralizadas
   - Finanzas descentralizadas
   - Hardware wallets
   - Información del mercado
-  - Noticias
 
 <a name="cap-01"/>
 
@@ -458,6 +458,12 @@ Muchas de las dApps importantes de Ethereum también existen en BSC o tienen un 
 - Pancakeswap (en la bsc blockchain): https://pancakeswap.finance/
 - Quickswap (en la polygon blockchain): https://quickswap.exchange/
 
+### Exchanges no KYC
+
+- FixedFloat: https://fixedfloat.com/
+- SideShift: https://sideshift.ai/btc/eth
+- XMR Exchange: https://xmrexchange.io/
+
 ### Finanzas centralizadas
 
 - Nexo: https://nexo.io/
@@ -484,8 +490,3 @@ Muchas de las dApps importantes de Ethereum también existen en BSC o tienen un 
 - Coingecko: https://www.coingecko.com/
 - Coinmarketcap: https://coinmarketcap.com/
 - DeFiPulse (sobre DeFi): https://defipulse.com/
-
-### Noticias
-
-- Cointelegraph: https://cointelegraph.com/
-- Criptonoticias: https://www.criptonoticias.com/
