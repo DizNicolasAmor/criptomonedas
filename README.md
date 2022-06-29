@@ -62,12 +62,18 @@
 
 ### ¿Qué es bitcoin?
 
-- Es un protocolo, es decir, un conjunto de reglas que constituyen un sistema de comunicación. En este caso, uno descentralizado y que permite un intercambio de información p2p.
-- Es la primera aplicación de este protocolo.
-- También es la unidad monetaria que se utiliza en esta aplicación.
-- Para cuestiones más técnicas, recomiendo buscar material de Andreas Antonopoulos.
-- El objetivo de esta app es ser una moneda que compita con las fiat. La diferencia más importante es que los bitcoins no pueden ser emitidos, controlados o confiscados por ningún banco o gobierno.
-- Fue creada con el objetivo de defender valores como la privacidad, la libertad de expresión y la propiedad privada. En cuanto al aspecto filosófico, pueden buscar información sobre los conceptos de cypherpunk y anarco-capitalismo. Esto permite entender el motivo de las características del protocolo (por ejemplo, la importancia de la descentralización de poder) y cómo funciona su sistema de incentivos.
+Originalmente:
+
+- Según el Whitepaper, Bitcoin es un **"peer to peer electronic cash system", es decir, un sistema de efectivo electrónico de par a par**.
+- En un sentido filosófico, se relaciona con los conceptos de cypherpunk y anarco-capitalismo: fue creada con el objetivo de defender valores como la privacidad, la libertad de expresión y la propiedad privada. Por eso la importancia de que sea un sistema "de par a par", es decir, sin que exista un intermediario (gobierno, banco o corporación) que pueda censurar la transferencia, congelarla o confiscar fondos. Esto permite entender el motivo de las características del protocolo (por ejemplo, la importancia de la descentralización de poder) y cómo funcionan el sistema de incentivos y el sistema de seguridad.
+- En un sentido abstracto, podría decirse que es un protocolo, es decir, un conjunto de reglas que constituyen un sistema de comunicación: uno descentralizado y que permite un intercambio de información de par a par.
+- En un sentido técnico, es la primera aplicación de este protocolo. Y también es la unidad monetaria que se utiliza en esta aplicación. Para cuestiones más técnicas, recomiendo buscar material de Andreas Antonopoulosde anteriores al año 2017.
+
+Actualmente:
+
+- Dado que Bitcoin es también una aplicación informática y la unidad monetaria utilizada en ella, el grupo de desarrolladores que mantiene y actualiza el software de esta aplicación introduce cambios que modifican esta aplicación. Por lo tanto, **Bitcoin y las otras criptomonedas son dinero cuyas características mutan en el tiempo**.
+- Estas mutaciones pueden ser tan contundentes como para socavar los fundamentos del sistema.
+- Por ejemplo, la situación actual de Bitcoin es que para realizar transferencias las comisiones son aproximadamente 5 usd (y en el futuro se planea que sigan subiendo), por lo cual la mayoría de los usuarios no lo utilizan de par a par, sino a través de servicios bancarios, exchanges, u otras blockchains de segunda capa que tienden a la centralización.
 
 ### ¿Qué son las criptomonedas?
 
