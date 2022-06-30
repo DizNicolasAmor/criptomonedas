@@ -452,8 +452,8 @@ Muchas de las dApps importantes de Ethereum también existen en BSC o tienen un 
 
 - Binance: https://www.binance.com/
 - Coinbase: https://www.coinbase.com/
-- Kraken: https://www.kraken.com/
 - Huobi: https://www.huobi.com/
+- Kraken: https://www.kraken.com/
 - Kucoin: https://www.kucoin.com/
 
 ### Exchanges descentralizados
@@ -466,6 +466,7 @@ Muchas de las dApps importantes de Ethereum también existen en BSC o tienen un 
 
 ### Exchanges no KYC
 
+- Change Now: https://changenow.io/
 - FixedFloat: https://fixedfloat.com/
 - SideShift: https://sideshift.ai/btc/eth
 - XMR Exchange: https://xmrexchange.io/
