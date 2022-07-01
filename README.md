@@ -164,9 +164,10 @@ Son tokens en general fungibles que buscan mantener un valor estable, ya sea con
 
 ### ¿Cuáles son las stablecoins más importantes?
 
-- DAI: busca garantizar la estabilidad a partir de un algoritmo. Para generar tokens éstos deben estar respaldados por un colateral de otras cryptos (por ejemplo ETH), que quedan bloqueados en un SM. También quema tokens de acuerdo a la variación del precio de los colaterales.
-- USDC: emite tokens que en teoría están respaldados por dólares y otros activos. Hay empresas muy importantes detrás de este proyecto, como Circle (vinculada a Goldman Sachs).
-- USDT: emite tokens que en teoría están respaldados por dólares y otros activos. Es la stablecoin más usada y de mayor market cap.
+- USDT (Theter): stablecoin centralizada creada por el exchange Bitfinex en 2014. Puede congelar fondos. Dice que está respaldada por USD, pero sólo tiene 6% de liquidez. Hay KYC en su app.
+- USDC: creada en 2019 por Circle (vinculada a Goldman Sachs) y Coinbase. Entre los inversores más potentes se encuentran BlackRock y Fidelity. Centralizada. Como en USDT, también se pueden congelar tus fondos. Hay KYC en su app.
+- BUSD: creada por Paxos pero con la etiqueta de Binance en 2019. Centralizada. También pueden congelar fondos. No está claro cómo es el respaldo. Hay KYC en su app.
+- DAI: creada por MakerDAO en 2019. Descentralizada y algorítmica. Muy descentralizada y auditable personalmente. Arbitraje rápido. Está mucho más colateralizada que las demás, pero el 45% del colateral actual es USDC, por lo que depende de que no congelen esos fondos en un futuro.
 
 ### ¿Por qué existen las mismas cryptos en distintas blockchains?
 
