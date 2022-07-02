@@ -470,6 +470,7 @@ Muchas de las dApps importantes de Ethereum también existen en BSC o tienen un 
 - Change Now: https://changenow.io/
 - FixedFloat: https://fixedfloat.com/
 - SideShift: https://sideshift.ai/btc/eth
+- Swap Zone: https://swapzone.io/
 - XMR Exchange: https://xmrexchange.io/
 
 ### Finanzas centralizadas
@@ -497,4 +498,5 @@ Muchas de las dApps importantes de Ethereum también existen en BSC o tienen un 
 
 - Coingecko: https://www.coingecko.com/
 - Coinmarketcap: https://coinmarketcap.com/
-- DeFiPulse (sobre DeFi): https://defipulse.com/
+- Defi Llama: https://defillama.com/
+- DeFi Pulse (sobre DeFi): https://defipulse.com/
