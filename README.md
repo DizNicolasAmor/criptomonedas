@@ -400,31 +400,42 @@ Muchas de las dApps importantes de Ethereum también existen en BSC o tienen un 
 
 ### Blockchains principales
 
-- Bitcoin
+- Bitcoin BTC (BCT)
   - Página oficial: https://bitcoin.org/
   - Whitepaper: https://bitcoin.org/bitcoin.pdf
   - Source code: https://github.com/bitcoin/
   - Data: https://www.blockchain.com/charts
   - Explorer: https://www.blockchain.com/explorer
-- Ethereum
-  - Página oficial: https://ethereum.org/
-  - Whitepaper: https://github.com/ethereum/wiki/wiki/White-Paper
-  - Source code: https://github.com/ethereum
-  - Data: https://etherscan.io/charts
-  - Explorer: https://etherscan.io/
-- Cardano
-  - Página oficial: https://cardano.org/
-  - Whitepaper: https://docs.cardano.org/introduction
-  - Source code: https://cardanoupdates.com/
-  - Data: https://cardanoscan.io/
-  - Explorer: https://cardanoscan.io/
-- BSC
+- Bitcoin Cash (BCH)
+  - Página oficial: https://bch.info/en/
+  - Whitepaper: https://bch.info/bitcoin.pdf
+  - Source code: https://gitlab.com/bitcoin-cash-node
+  - Data: https://blockchair.com/bitcoin-cash
+  - Explorer: https://bch.tokenview.com/en
+- Binance Smart Chain (BSC)
   - Página oficial: https://www.binance.com/en
   - Whitepaper: -
   - Source code: -
   - Data: https://bscscan.com/
   - Explorer: https://bscscan.com/
-- Polygon
+- Cardano (ADA)
+  - Página oficial: https://cardano.org/
+  - Whitepaper: https://docs.cardano.org/introduction
+  - Source code: https://cardanoupdates.com/
+  - Data: https://cardanoscan.io/
+  - Explorer: https://cardanoscan.io/
+- Ethereum (ETH)
+  - Página oficial: https://ethereum.org/
+  - Whitepaper: https://github.com/ethereum/wiki/wiki/White-Paper
+  - Source code: https://github.com/ethereum
+  - Data: https://etherscan.io/charts
+  - Explorer: https://etherscan.io/
+- Monero (XMR)
+  - Página oficial: https://www.getmonero.org/
+  - Whitepaper: https://github.com/monero-project/research-lab/blob/master/whitepaper/whitepaper.pdf
+  - Source code: https://github.com/monero-project/monero
+  - Data: https://localmonero.co/blocks
+- Polygon (MATIC)
   - Página oficial: https://polygon.technology/
   - Whitepapers: https://polygon.technology/papers/
   - Source code: https://github.com/maticnetwork/
