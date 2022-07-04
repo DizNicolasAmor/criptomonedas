@@ -89,7 +89,7 @@ Actualmente:
   - Ser un usuario común (tener una wallet: recibir fondos y crear transacciones).
 
 - Forma indirecta:
-  - Usar un servicio que administre tu wallet por vos (exchanges, fintechs, pools que dicen que tienen nodos validadores). Es decir, cuando por ejemplo una persona dice que "tiene BTC en binance o en coinbase", en realidad los fondos los tiene dicha empresa.
+  - Usar un servicio que administre tu wallet por vos (exchanges, fintechs, pools que dicen que tienen nodos validadores). Es decir, cuando por ejemplo una persona dice que "tiene BTC en binance o en coinbase", en realidad los fondos los tiene dicha empresa. Y muchas veces, ni siquiera los tiene ya que muchas empresas hacen reserva fraccionaria.
 
 ### ¿Qué son las Private Keys y por qué son importantes?
 
