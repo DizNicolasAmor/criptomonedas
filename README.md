@@ -19,12 +19,13 @@
   - ¿Cuáles son las stablecoins más importantes?
   - ¿Por qué existen las mismas cryptos en distintas blockchains?
 - [03. ROADMAP PARA UN USUARIO DE CRIPTOMONEDAS](#cap-03)
-  - 1. CeFi
-  - 2. Software wallet personal
-  - 3. Paper wallet
-  - 4. Hardware wallet
-  - 5. Hardware wallet + software wallet
-  - 6. HW + SW + configurar una Layer 2 o una blockchain secundaria
+  - 1. Elegir una criptomoneda
+  - 2. Tener una wallet personal: not your coins not your keys
+    - 1. Software wallet personal
+    - 2. Paper wallet
+    - 3. Hardware wallet
+    - 4. Hardware wallet + software wallet
+    - 5. HW + SW + configurar una Layer 2 o una blockchain secundaria
 - [04. EJEMPLOS DE OPCIONES PARA UTILIZAR CARDANO (ADA)](#cap-04)
   - 1. Exchange centralizado
   - 2. Software wallet + private key
@@ -187,51 +188,52 @@ También, al enviar o recibir una crypto (tanto nativa como token), es important
 
 Esta guía, que es una opinión personal, una propuesta, enumera opciones en orden de dificultad creciente, para quien busque comenzar a usar criptomonedas.
 
-### 1. CeFi
+### 1. Elegir una criptomoneda
 
-- 1.1. CeFi + Stablecoins
-- 1.2. CeFi + Otra crypto
+Anteriormente era una posibilidad viable comenzar utilizando un exchange centralizado ya que facilitaba la usabilidad: por su UI amigable, material didáctico (artículos, videos, cursos), múltiples direcciones de diferentes blockchains, incluso servicios financieros (por ejemplo recibir ingresos pasivos generados por mantener las monedas dentro del exchange).
 
-Si bien usar un servicio centralizado puede ser algo contrario a la filosofía de bitcoin, considero que sí puede ser un primer paso útil. En empresas como binance, coinbase, nexo u otras, la UI es amigable y además hay material didáctico (artículos, videos, cursos). Uno puede aprender cuestiones básicas sobre cada crypto, cómo funciona y recibir noticias importantes sobre el tema. También va a ver las diferencias entre distintas wallets. Y al realizar envíos, va a conocer las distintas redes (blockchains) por donde se puede enviar un token (relacionar los distintos tokens con sus blockchains) y sus respectivos fees.
-Si a uno le asusta que BTC pueda caer 30% en un día, puede ser una buena opción comenzar con stablecoins. Además hay plataformas como nexo o binance que permiten generar ingresos pasivos con esos tokens.
+Sin embargo, en la actualidad es cada vez más complicado y riesgoso: cada vez más exchanges piden cada vez más restricciones para abrir cuentas y mover fondos. Además de que hay muchos casos de congelamiento de fondos, confiscaciones y quiebras. La falta de privacidad también es un tema importante a tener en cuenta. En adición, tener las monedas en un exchange es contraproducente para el proyecto de esa moneda, ya que es muy probable que los exchanges hagan reserva fraccionaria con ellos. Básicamente se convirtieron en bancos.
 
-### 2. Software wallet personal
+Por eso, utilizar las criptomonedas directamente, tal como fue originalmente la idea, puede ser también la mejor opción. Depende lo que busque cada uno, puede haber diferentes opciones: algunos buscan que las comisiones sean baratas, otros que las transacciones sean rápidas, otros que tengan privacidad.
 
-- 2.1. SW personal + crypto nativa
-- 2.2. SW personal + crypto nativa + DeFi
-- 2.3. SW personal + crypto nativa + Token + DeFi
+### 2. Tener una wallet personal: not your coins not your keys
 
-En esta etapa la idea es aprender a: generar una wallet de la cual uno tenga posesión de las private keys, tener conceptos básicos sobre su seguridad, poder restaurar una cuenta, enviar y recibir cryptos desde ella. Nota: es importante usar la crypto nativa, ya que es la que sirve para pagar las fees.
+El segundo paso es elegir una wallet para esa criptomoneda. Lo más importante aquí es tener la llave privada, ya que **not your coins not your keys**.
 
-Ejemplos: metamask para ethereum, yoroi para cardano, polkadot.js para polkadot y kusama. Exodus para varias blockchains.
+Opciones por orden de seguridad y complejidad:
 
-### 3. Paper wallet
+1. Software wallet personal
+  - 1.1. SW personal + crypto nativa
+  - 1.2. SW personal + crypto nativa + DeFi
+  - 1.3. SW personal + crypto nativa + Token + DeFi
 
-- 3.1. Paper wallet + software wallet
+  | En esta etapa la idea es aprender a: generar una wallet de la cual uno tenga posesión de las private keys, tener conceptos básicos sobre su seguridad, poder restaurar una cuenta, enviar y recibir cryptos desde ella. Nota: es importante usar la crypto nativa, ya que es la que sirve para pagar las fees.
+  | Ejemplos: metamask para ethereum, yoroi para cardano, polkadot.js para polkadot y kusama. Exodus para varias blockchains.
 
-En esta etapa la idea es aprender cómo funciona una paper wallet y cómo se puede recuperar (importar en una SW). Si después de importarla uno quiere volver a la seguridad de una paper wallet, puede volver a enviar los fondos a una PW cuya private key no haya sido expuesta.
+2. Paper wallet
+  - 2.1. Paper wallet + software wallet
 
-Ejemplos: paper wallet de BTC se puede importar en blockchain.info , mientras que paper wallet de ethereum se puede importar en metamask.
+  | En esta etapa la idea es aprender cómo funciona una paper wallet y cómo se puede recuperar (importar en una SW). Si después de importarla uno quiere volver a la seguridad de una paper wallet, puede volver a enviar los fondos a una PW cuya private key no haya sido expuesta.
+  | Ejemplos: paper wallet de BTC se puede importar en blockchain.info , mientras que paper wallet de ethereum se puede importar en metamask.
 
-### 4. Hardware wallet
+3. Hardware wallet
 
 - 4.1. HW + crypto nativa
 - 4.2. HW + crypto nativa + delegating
 - 4.3. HW + crypto nativa + DeFi
 
-Ejemplos: trezor y ledger. Cada una tiene su UI nativa.
+  | Ejemplos: trezor y ledger. Cada una tiene su UI nativa.
 
-### 5. Hardware wallet + software wallet
+4. Hardware wallet + software wallet
 
-- 5.1. HW + SW + DeFi + Staking o delegating + NFT
+  - 4.1. HW + SW + DeFi + Staking o delegating + NFT
 
-Ejemplo: importar una HW de ADA en Yoroi y delegar algunos ADA (no todos, ya que se necesitan cryptos nativas para las fees).
+  | Ejemplo: importar una HW de ADA en Yoroi y delegar algunos ADA (no todos, ya que se necesitan cryptos nativas para las fees).
+  | Otro ejemplo: importar una HW de Cosmos en Keplr y delegar algunos ATOM (no todos, ya que se necesitan cryptos nativas para las fees).
 
-Otro ejemplo: importar una HW de Cosmos en Keplr y delegar algunos ATOM (no todos, ya que se necesitan cryptos nativas para las fees).
+5. HW + SW + configurar una Layer 2 o una blockchain secundaria
 
-### 6. HW + SW + configurar una Layer 2 o una blockchain secundaria
-
-Ejemplo: usar una HW e importarla en Metamask. Luego, configurar MM con la bsc o polygon. Luego usar DeFi en esas blockchains.
+  | Ejemplo: usar una HW e importarla en Metamask. Luego, configurar MM con la bsc o polygon. Luego usar DeFi en esas blockchains.
 
 <a name="cap-04"/>
 
