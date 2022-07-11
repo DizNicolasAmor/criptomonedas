@@ -207,20 +207,22 @@ Opciones por orden de seguridad y complejidad:
   - 1.2. SW personal + crypto nativa + DeFi
   - 1.3. SW personal + crypto nativa + Token + DeFi
 
-  | En esta etapa la idea es aprender a: generar una wallet de la cual uno tenga posesión de las private keys, tener conceptos básicos sobre su seguridad, poder restaurar una cuenta, enviar y recibir cryptos desde ella. Nota: es importante usar la crypto nativa, ya que es la que sirve para pagar las fees.
-  | Ejemplos: metamask para ethereum, yoroi para cardano, polkadot.js para polkadot y kusama. Exodus para varias blockchains.
+    En esta etapa la idea es aprender a: generar una wallet de la cual uno tenga posesión de las private keys, tener conceptos básicos sobre su seguridad, poder restaurar una cuenta, enviar y recibir cryptos desde ella. Nota: es importante usar la crypto nativa, ya que es la que sirve para pagar las fees.
+
+    Ejemplos: metamask para ethereum, yoroi para cardano, polkadot.js para polkadot y kusama. Exodus para varias blockchains.
 
 2. Paper wallet
   - 2.1. Paper wallet + software wallet
 
-  | En esta etapa la idea es aprender cómo funciona una paper wallet y cómo se puede recuperar (importar en una SW). Si después de importarla uno quiere volver a la seguridad de una paper wallet, puede volver a enviar los fondos a una PW cuya private key no haya sido expuesta.
-  | Ejemplos: paper wallet de BTC se puede importar en blockchain.info , mientras que paper wallet de ethereum se puede importar en metamask.
+    En esta etapa la idea es aprender cómo funciona una paper wallet y cómo se puede recuperar (importar en una SW). Si después de importarla uno quiere volver a la seguridad de una paper wallet, puede volver a enviar los fondos a una PW cuya private key no haya sido expuesta.
+
+    Ejemplos: paper wallet de BTC se puede importar en blockchain.info , mientras que paper wallet de ethereum se puede importar en metamask.
 
 3. Hardware wallet
 
-- 4.1. HW + crypto nativa
-- 4.2. HW + crypto nativa + delegating
-- 4.3. HW + crypto nativa + DeFi
+- 3.1. HW + crypto nativa
+- 3.2. HW + crypto nativa + delegating
+- 3.3. HW + crypto nativa + DeFi
 
   | Ejemplos: trezor y ledger. Cada una tiene su UI nativa.
 
@@ -228,12 +230,13 @@ Opciones por orden de seguridad y complejidad:
 
   - 4.1. HW + SW + DeFi + Staking o delegating + NFT
 
-  | Ejemplo: importar una HW de ADA en Yoroi y delegar algunos ADA (no todos, ya que se necesitan cryptos nativas para las fees).
-  | Otro ejemplo: importar una HW de Cosmos en Keplr y delegar algunos ATOM (no todos, ya que se necesitan cryptos nativas para las fees).
+    Ejemplo: importar una HW de ADA en Yoroi y delegar algunos ADA (no todos, ya que se necesitan cryptos nativas para las fees).
+
+    Otro ejemplo: importar una HW de Cosmos en Keplr y delegar algunos ATOM (no todos, ya que se necesitan cryptos nativas para las fees).
 
 5. HW + SW + configurar una Layer 2 o una blockchain secundaria
 
-  | Ejemplo: usar una HW e importarla en Metamask. Luego, configurar MM con la bsc o polygon. Luego usar DeFi en esas blockchains.
+    Ejemplo: usar una HW e importarla en Metamask. Luego, configurar MM con la bsc o polygon. Luego usar DeFi en esas blockchains.
 
 <a name="cap-04"/>
 
