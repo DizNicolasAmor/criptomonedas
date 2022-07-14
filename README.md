@@ -78,8 +78,8 @@ Actualmente:
 
 ### ¿Qué son las criptomonedas?
 
-- Son otros proyectos que tomaron como referencia a bitcoin y cambiaron algunas características.
-- Cada uno es distinto: no todos son descentralizados, ni privados, ni open source, ni tienen las mismas propiedades monetarias.
+- Son otros proyectos que tomaron como referencia a Bitcoin y cambiaron algunas características.
+- Cada uno es distinto: no todos son descentralizados, ni privados, ni open source, ni tienen las mismas propiedades monetarias. De hecho el Bitcoin que la gente común conoce, tampoco tiene las propiedades descritas originalmente en el Whitepaper. Y según declaraciones de sus desarrolladores, en el futuro será cada vez más diferente.
 - Sin embargo, podríamos decir que en general comparten las características de que son blockchains y para los usuarios finales comunes, la forma de interactuar con la red es bastante similar.
 
 ### ¿Cómo participar en la red de una crypto?
