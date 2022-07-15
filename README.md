@@ -6,6 +6,7 @@
 
 - [01. INTRODUCCIÓN](#cap-01)
   - ¿Qué es bitcoin?
+  - ¿Qué es bitcoin cash?
   - ¿Qué son las criptomonedas?
   - ¿Cómo participar en la red de una crypto?
   - ¿Qué son las Private Keys y por qué son importantes?
@@ -75,6 +76,16 @@ Actualmente:
 - Dado que Bitcoin es también una aplicación informática y la unidad monetaria utilizada en ella, el grupo de desarrolladores que mantiene y actualiza el software de esta aplicación introduce cambios que modifican esta aplicación. Por lo tanto, **Bitcoin y las otras criptomonedas son dinero cuyas características mutan en el tiempo**.
 - Estas mutaciones pueden ser tan contundentes como para socavar los fundamentos del sistema.
 - Por ejemplo, la situación actual de Bitcoin es que para realizar transferencias las comisiones son aproximadamente 5 usd (y en el futuro se planea que sigan subiendo), por lo cual la mayoría de los usuarios no lo utilizan de par a par, sino a través de servicios bancarios, exchanges, u otras blockchains de segunda capa que tienden a la centralización.
+
+### ¿Qué es bitcoin cash?
+
+En 2017 se creó Bitcoin Cash (BCH) como un fork del repositorio original de Bitcoin, en ese entonces controlado por la empresa Blockstream. Sus partidarios afirman que es el verdadero bitcoin ya que sigue el objetivo de ser **peer to peer electronic cash**, por lo que resuelve los problemas de escalabilidad y comisiones altas del otro Bitcoin (BTC). A diferencia de este último, que sigue los objetivos de la empresa Blockstream.
+
+Más información:
+
+- https://bitcoincash.org/
+- Documental "Quién mató a Bitcoin?" en español: https://www.youtube.com/watch?v=Vq9bCuM0YQ8
+- Documental "Quién mató a Bitcoin?" en inglés: https://odysee.com/@laeternavigilancia:4/who-killed-bitcoin-full-doc:4
 
 ### ¿Qué son las criptomonedas?
 
