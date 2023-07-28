@@ -509,10 +509,11 @@ Muchas de las dApps importantes de Ethereum también existen en BSC o tienen un 
 
 ### Finanzas descentralizadas
 
-- Compound finance (en ethereum): https://compound.finance/
-- Aave (multichain): https://aave.com/
-- Curve (multichain): https://curve.fi/
-- Venus: https://venus.finance/app
+Existen en varias blockchains un ecosistema de aplicaciones llamado DeFi (descentralized finance) que ofrecen servicios financieros. Al principio ofrecían altos rendimientos y decían ser sistemas abiertos y resistentes a la censura.
+
+Sin embargo, se debe mencionar que con el paso del tiempo esos altos rendimientos bajaron. Y además, resultó que dichas aplicaciones no fueron abiertas ni resistentes a la censura pues por ejemplo durante el boicot a TornadoCash censuraron las transacciones de usuarios cuyas wallets habían recibido monedas provenientes de TC. Y en algunos casos confiscaron fondos (por ejemplo los que estaban en vaults en dichas aplicaciones).
+
+Por lo tanto, tener en cuenta ese riesgo.
 
 ### Hardware wallets
 
