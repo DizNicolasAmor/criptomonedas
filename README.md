@@ -517,10 +517,7 @@ Por lo tanto, tener en cuenta ese riesgo.
 
 ### Hardware wallets
 
-> Las páginas oficiales de las hardware wallets en general también poseen secciones educativas muy recomendables.
-
-- Trezor: https://trezor.io/
-- Ledger: https://www.ledger.com/
+> Las más conocidas son **Trezor** (https://trezor.io/) y **Ledger** (https://www.ledger.com/). Tener cuidado con Ledger porque hubo polémicas con la actualización "Ledger Recover", sobre si la empresa tiene acceso a las llaves privadas de sus usuarios. En ese caso, podrían confiscar los fondos si un gobierno se los exigiera.
 
 ### Información del mercado
 
