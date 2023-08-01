@@ -524,4 +524,3 @@ Por lo tanto, tener en cuenta ese riesgo.
 - Coingecko: https://www.coingecko.com/
 - Coinmarketcap: https://coinmarketcap.com/
 - Defi Llama: https://defillama.com/
-- DeFi Pulse (sobre DeFi): https://defipulse.com/
