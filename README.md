@@ -146,15 +146,11 @@ Tener en cuenta:
 
 ### Con SC VS sin SC
 
-- Sin SC
+- Sin SC: la red descentralizada sólo procesa y guarda datos de las transacciones en su moneda nativa.
 
-  - La red descentralizada sólo procesa y guarda datos de las transacciones en su moneda nativa.
-  - Ejemplos: bitcoin, bitcoin cash, litecoin, dogecoin, monero.
+- Con SC: la red descentralizada, además de eso, también almacena y ejecuta código, lo que se conoce como Smart Contracts. A partir de los SC, se puede crear otro tipo de criptomonedas que se llaman tokens, como por ejemplo DAI, USDC, USDT, UNI, CAKE, AAVE, MANA, COMP, WBTC.
 
-- Con SC
-  - La red descentralizada, además de eso, también almacena y ejecuta código, lo que se conoce como Smart Contracts. A partir de los SC, se puede crear otro tipo de criptomonedas que se llaman tokens.
-  - Ejemplos de blockchains con SC: ethereum, bsc, polkadot, kusama, polygon, avalanche, cosmos, terra, próximamente cardano.
-  - Ejemplos de tokens: DAI, USDC, USDT, UNI, CAKE, AAVE, MANA, COMP, WBTC.
+Originalmente esta distinción servía para referirse a cadenas enfocadas en SC, como aquellas compatibles con la EVM (Ethereum, BSC, Polygon, Avalanche). Sin embargo, con el tiempo otras cadenas sin SC o con SC más primitivos comenzaron a ampliar sus capacidades y tener tokens o apps primitivas (bitcoin core, bitcoin cash, litecoin, dogecoin, monero). Por lo tanto, esta distinción se ha vuelto algo difusa.
 
 ### ¿En qué se diferencia una crypto nativa de un token?
 
