@@ -161,10 +161,8 @@ En general, en las redes que corren Smart Contracts, las fees de las transaccion
 
 ### ¿Qué tipos de tokens existen?
 
-- Stablecoins: buscan una paridad con el dólar u otra moneda estable.
-- Derivados o activos sintéticos: buscan representar el precio de acciones, índices, metales, otras cryptos u otros activos financieros.
 - NFT (tokens no fungibles): sirven para representar coleccionables, arte, registros de propiedad, servicios de identidad.
-- Otras cryptos: vinculadas a servicios, por ejemplo dapps de juegos, de finanzas, de gobernanza de proyectos, de financiación de proyectos, de deportes, de donación, etc.
+- FT (tokens fungibles): aquellos que tienen en teoría el mismo valor y pueden ser intercambiados entre sí. Por ejemplo las Stablecoins o Derivados o activos sintéticos (buscan representar el precio de acciones, índices, metales, otras cryptos u otros activos financieros).
 
 ### ¿Qué son las stablecoins?
 
