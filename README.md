@@ -195,11 +195,11 @@ Esta guía, que es una opinión personal, una propuesta, enumera opciones en ord
 
 ### 1. Elegir una criptomoneda
 
-Anteriormente era una posibilidad viable comenzar utilizando un exchange centralizado ya que facilitaba la usabilidad: por su UI amigable, material didáctico (artículos, videos, cursos), múltiples direcciones de diferentes blockchains, incluso servicios financieros (por ejemplo recibir ingresos pasivos generados por mantener las monedas dentro del exchange).
+Hay gente que recomienda comenzar utilizando un exchange centralizado ya que facilitaba la usabilidad: por su UI amigable, material didáctico (artículos, videos, cursos), múltiples direcciones de diferentes blockchains, incluso servicios financieros (por ejemplo recibir ingresos pasivos generados por mantener las monedas dentro del exchange).
 
-Sin embargo, en la actualidad es cada vez más complicado y riesgoso: cada vez más exchanges piden cada vez más restricciones para abrir cuentas y mover fondos. Además de que hay muchos casos de congelamiento de fondos, confiscaciones y quiebras. La falta de privacidad también es un tema importante a tener en cuenta. En adición, tener las monedas en un exchange es contraproducente para el proyecto de esa moneda, ya que es muy probable que los exchanges hagan reserva fraccionaria con ellos. Básicamente se convirtieron en bancos.
+Sin embargo, esto es complicado y riesgoso: cada vez más exchanges piden cada vez más requisitos para abrir cuentas y mover fondos. Además hay casos de congelamiento de fondos, confiscaciones y quiebras. La falta de privacidad también es un tema importante considerar. En adición, tener las monedas en un exchange es contraproducente para el proyecto de esa moneda, ya que es muy probable que los exchanges hagan reserva fraccionaria con ellos. Básicamente se convirtieron en bancos.
 
-Por eso, utilizar las criptomonedas directamente, tal como fue originalmente la idea, puede ser también la mejor opción. Depende lo que busque cada uno, puede haber diferentes opciones: algunos buscan que las comisiones sean baratas, otros que las transacciones sean rápidas, otros que tengan privacidad.
+Por eso, utilizar las criptomonedas directamente, tal como fue originalmente la idea, es también la mejor opción.
 
 ### 2. Tener una wallet personal: not your coins not your keys
 
