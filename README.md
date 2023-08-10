@@ -201,27 +201,24 @@ Sin embargo, esto es complicado y riesgoso: cada vez más exchanges piden cada v
 
 Por eso, utilizar las criptomonedas directamente, tal como fue originalmente la idea, es también la mejor opción.
 
-### 2. Tener una wallet personal: not your coins not your keys
+### 2. Tener una billetera personal: not your coins not your keys
 
-El segundo paso es elegir una wallet para esa criptomoneda. Lo más importante aquí es tener la llave privada, ya que **not your coins not your keys**.
+El segundo paso es elegir una billetera para esa criptomoneda. Lo más importante aquí es tener la llave privada, ya que **not your coins not your keys**.
 
 Opciones por orden de seguridad y complejidad:
 
-1. Software wallet personal
-  - 1.1. SW personal + crypto nativa
-  - 1.2. SW personal + crypto nativa + DeFi
-  - 1.3. SW personal + crypto nativa + Token + DeFi
+1. Billetera de software personal
 
-    En esta etapa la idea es aprender a: generar una wallet de la cual uno tenga posesión de las private keys, tener conceptos básicos sobre su seguridad, poder restaurar una cuenta, enviar y recibir cryptos desde ella. Nota: es importante usar la crypto nativa, ya que es la que sirve para pagar las fees.
+    En esta etapa la idea es aprender a: generar una billetera de la cual uno tenga posesión de las llaves privadas, tener conceptos básicos sobre su seguridad, poder restaurar una cuenta, enviar y recibir monedas desde ella. Nota: es importante usar la crypto nativa, ya que es la que sirve para pagar las comisiones.
 
-    Ejemplos: metamask para ethereum, yoroi para cardano, polkadot.js para polkadot y kusama. Exodus para varias blockchains.
+    Ejemplos: selene para bitcoin cash, metamask para ethereum, yoroi para cardano, polkadot.js para polkadot. Tanto "Exodus" como "Unstoppable wallet" son billeteras multi monedas y te permiten tener las llaves privadas de todas tus billeteras.
 
-2. Paper wallet
-  - 2.1. Paper wallet + software wallet
+2. Billetera de papel
+  - 2.1. Billetera de papel + Billetera de software
 
-    En esta etapa la idea es aprender cómo funciona una paper wallet y cómo se puede recuperar (importar en una SW). Si después de importarla uno quiere volver a la seguridad de una paper wallet, puede volver a enviar los fondos a una PW cuya private key no haya sido expuesta.
+    En esta etapa la idea es aprender cómo funciona una billetera de papel y cómo se puede recuperar (importar en billetera de software). Si después de importarla uno quiere volver a la seguridad de una billetera de papel, puede volver a enviar los fondos a una cuya llave privada no haya sido expuesta.
 
-    Ejemplos: paper wallet de BTC se puede importar en blockchain.info , mientras que paper wallet de ethereum se puede importar en metamask.
+    Ejemplos: una billetera de papel de BTC se puede importar en blockchain.info, mientras que una de ethereum se puede importar en metamask.
 
 3. Hardware wallet
 
@@ -229,7 +226,7 @@ Opciones por orden de seguridad y complejidad:
 - 3.2. HW + crypto nativa + delegating
 - 3.3. HW + crypto nativa + DeFi
 
-  | Ejemplos: trezor y ledger. Cada una tiene su UI nativa.
+    Ejemplos: trezor y ledger. Cada una tiene su UI nativa.
 
 4. Hardware wallet + software wallet
 
