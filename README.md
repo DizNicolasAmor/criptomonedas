@@ -203,7 +203,7 @@ Por eso, utilizar las criptomonedas directamente, tal como fue originalmente la 
 
 ### 2. Tener una billetera personal: not your coins not your keys
 
-El segundo paso es elegir una billetera para esa criptomoneda. Lo más importante aquí es tener la llave privada, ya que **not your coins not your keys**.
+El segundo paso es elegir una billetera para esa criptomoneda. Lo más importante aquí es tener la llave privada, ya que si no tenés la llave privada de la billetera, entonces no son tus monedas. En inglés esa idea se resume en la frase **not your coins not your keys**.
 
 Opciones por orden de seguridad y complejidad:
 
@@ -211,7 +211,7 @@ Opciones por orden de seguridad y complejidad:
 
     En esta etapa la idea es aprender a: generar una billetera de la cual uno tenga posesión de las llaves privadas, tener conceptos básicos sobre su seguridad, poder restaurar una cuenta, enviar y recibir monedas desde ella. Nota: es importante usar la crypto nativa, ya que es la que sirve para pagar las comisiones.
 
-    Ejemplos: selene para bitcoin cash, metamask para ethereum, yoroi para cardano, polkadot.js para polkadot. Tanto "Exodus" como "Unstoppable wallet" son billeteras multi monedas y te permiten tener las llaves privadas de todas tus billeteras.
+    Ejemplos: `selene` para bitcoin cash, `metamask` para ethereum, `yoroi` para cardano, `polkadot.js` para polkadot. También existen billeteras multi monedas como `Exodus` y `Unstoppable wallet`.
 
 2. Billetera de papel
   - 2.1. Billetera de papel + Billetera de software
