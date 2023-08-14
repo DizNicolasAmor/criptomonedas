@@ -218,7 +218,7 @@ Opciones por orden de seguridad y complejidad:
 
     En esta etapa la idea es aprender cómo funciona una billetera de papel y cómo se puede recuperar (importar en billetera de software). Si después de importarla uno quiere volver a la seguridad de una billetera de papel, puede volver a enviar los fondos a una cuya llave privada no haya sido expuesta.
 
-    Ejemplos: una billetera de papel de BTC se puede importar en blockchain.info, mientras que una de ethereum se puede importar en metamask.
+    Ejemplos: una billetera de papel de BTC o de BCH se puede importar en `blockchain.info`, mientras que una de ethereum se puede importar en `metamask`.
 
 3. Hardware wallet
 
