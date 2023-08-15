@@ -26,7 +26,6 @@
     - 2. Paper wallet
     - 3. Hardware wallet
     - 4. Hardware wallet + software wallet
-    - 5. HW + SW + configurar una Layer 2 o una blockchain secundaria
 - [04. EJEMPLOS DE OPCIONES PARA UTILIZAR CARDANO (ADA)](#cap-04)
   - 1. Exchange centralizado
   - 2. Software wallet + private key
@@ -235,10 +234,6 @@ Opciones por orden de seguridad y complejidad:
     Ejemplo: importar una HW de ADA en Yoroi y delegar algunos ADA (no todos, ya que se necesitan cryptos nativas para las fees).
 
     Otro ejemplo: importar una HW de Cosmos en Keplr y delegar algunos ATOM (no todos, ya que se necesitan cryptos nativas para las fees).
-
-5. HW + SW + configurar una Layer 2 o una blockchain secundaria
-
-    Ejemplo: usar una HW e importarla en Metamask. Luego, configurar MM con la bsc o polygon. Luego usar DeFi en esas blockchains.
 
 <a name="cap-04"/>
 
