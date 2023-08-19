@@ -225,15 +225,15 @@ Opciones por orden de seguridad y complejidad:
 - 3.2. HW + crypto nativa + delegating
 - 3.3. HW + crypto nativa + DeFi
 
-    Ejemplos: trezor y ledger. Cada una tiene su UI nativa.
+  Ejemplo: se puede utilizar la billetera de hardware trezor para bitcoin cash. También se puede utilizar el programa de electron cash importando dicha billetera desde trezor. Esto tiene la ventaja de utilizar las herramientas de electron cash (cash fusion, plugins como flipstarter) con la seguridad de una billetera de hardware.
 
 4. Hardware wallet + software wallet
 
   - 4.1. HW + SW + DeFi + Staking o delegating + NFT
 
-    Ejemplo: importar una HW de ADA en Yoroi y delegar algunos ADA (no todos, ya que se necesitan cryptos nativas para las fees).
+  Ejemplo: importar una HW de ADA en Yoroi y delegar algunos ADA (no todos, ya que se necesitan cryptos nativas para las fees).
 
-    Otro ejemplo: importar una HW de Cosmos en Keplr y delegar algunos ATOM (no todos, ya que se necesitan cryptos nativas para las fees).
+  Otro ejemplo: importar una HW de Cosmos en Keplr y delegar algunos ATOM (no todos, ya que se necesitan cryptos nativas para las fees).
 
 <a name="cap-04"/>
 
