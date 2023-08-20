@@ -457,8 +457,10 @@ Muchas de las dApps importantes de Ethereum también existen en BSC o tienen un 
   - The Crypto Airplane: understanding cryptocurrency ownership [bitcoin, ethereum]: https://www.youtube.com/watch?v=tYldJpSPeqg
 - Benjamin Cowen
 - Bob Loukas
-- Charles Hoskinson (Cardano founder)
-- Finematics
+- Charles Hoskinson (fundador de Cardano)
+- BCH Argentina: https://bitcoincashargentina.com/
+  - No hay almuerzo gratis: https://linktr.ee/AlmuerzoNo
+  - La economía p2p: https://www.youtube.com/@LaEconomiaP2P
 
 ### Exchanges centralizados
 
