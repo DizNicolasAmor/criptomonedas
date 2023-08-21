@@ -247,7 +247,7 @@ El paso más sencillo desde luego es abrir una cuenta en en un exchange que sopo
 
 - Ejemplos: Binance, Coinbase, Kraken, Huobi, Kucoin, crypto.com.
 - Ventajas: mayor sencillez, menor responsabilidad en el acceso a la wallet.
-- Desventajas: menor seguridad (las monedas no están en poder del usuario, sino de la empresa que las tiene. Riesgos: pueden cambiar los TyC, pueden hackear el exchange, pueden hackear la cuenta del usuario).
+- Desventajas: menor seguridad (las monedas no están en poder del usuario, sino de la empresa que las tiene. Riesgos: pueden cambiar los TyC, pueden hackear el exchange, pueden hackear la cuenta del usuario), vigilancia gubernamental, cero privacidad.
 - Otros servicios: depende el exchange, a veces también el usuario puede acceder a servicios financieros con sus ADA dentro del exchange. Por ejemplo, prestarlos (lending, saving) o delegarlos (para el staking) y así generar ingresos pasivos (generalmente en ADA).
 - ¿Cuáles serían los pasos a seguir?
   - Registrarse
