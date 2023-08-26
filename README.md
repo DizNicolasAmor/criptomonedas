@@ -460,7 +460,7 @@ Muchas de las dApps importantes de Ethereum también existen en BSC o tienen un 
 
 ### Exchanges centralizados
 
-> Recordar que en estos exchanges hay secciones educativas muy recomendables.
+> Recordar que son como bancos, es decir, entidades financieras controladas por el gobierno.
 
 - Binance: https://www.binance.com/
 - Coinbase: https://www.coinbase.com/
